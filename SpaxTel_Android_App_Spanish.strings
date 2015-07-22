@@ -1,656 +1,917 @@
 
 /*Countries List*/
-"country_canada" = "Canadá";
-"country_united_states" = "Estados Unidos";
-"country_bahamas_the" = "Bahamas";
-"country_barbados" = "Barbados";
-"country_anguilla" = "Anguila";
-"country_antigua_and_barbuda" = "Antigua y Barbuda";
-"country_british_virgin_islands" = "Islas Vírgenes Británicas";
-"country_us_virgin_islands" = "Islas Vírgenes de EE.UU.";
-"country_cayman_islands" = "Islas Caimán";
-"country_bermuda" = "Bermuda";
-"country_grenada" = "Granada";
-"country_turks_and_caicos_islands" = "Islas Turcas y Caicos";
-"country_montserrat" = "Montserrat";
-"country_northern_mariana_islands" = "Islas Marianas del Norte";
-"country_guam" = "Guam";
-"country_american_samoa" = "Samoa Americana";
-"country_saint_lucia" = "Santa Lucía";
-"country_dominica" = "Dominica";
-"country_saint_vincent_and_the_grenadines" = "San Vicente y las Granadinas";
-"country_puerto_rico" = "Puerto Rico";
-"country_dominican_republic" = "República Dominicana";
-"country_trinidad_and_tobago" = "Trinidad y Tobago";
-"country_saint_kitts_and_nevis" = "San Cristóbal y Nieves";
-"country_saint_jamaica" = "Jamaica";
-"country_egypt" = "Egipto";
-"country_morocco" = "Marruecos";
-"country_algeria" = "Argelia";
-"country_tunisia" = "Túnez";
-"country_libya" = "Libia";
-"country_gambia_the" = "Gambia";
-"country_senegal" = "Senegal";
-"country_mauritania" = "Mauritania";
-"country_mali" = "Malí";
-"country_guinea" = "Guinea";
-"country_cote_d_ivoire_ivory_coast" = "Costa de Marfil";
-"country_burkina_faso" = "Burkina Faso";
-"country_niger" = "Níger";
-"country_togo" = "Togo";
-"country_benin" = "Benin";
-"country_mauritius" = "Mauricio";
-"country_liberia" = "Liberia";
-"country_sierra_leone" = "Sierra Leona";
-"country_ghana" = "Ghana";
-"country_nigeria" = "Nigeria";
-"country_chad" = "Chad";
-"country_central_african_republic" = "República Centroafricana";
-"country_cameroon" = "Camerún";
-"country_cape_verde" = "Cabo Verde";
-"country_sao_tome_and_principe" = "Santo Tomé y Príncipe";
-"country_equatorial_guinea" = "Guinea Ecuatorial";
-"country_gabon" = "Gabón";
-"country_congo_republic_of_the_congo_brazzaville" = "Congo, República del";
-"country_congo_democratic_republic_of_the_congo_kinshasa" = "Congo, República Democrática";
-"country_angola" = "Angola";
-"country_guineaBissau" = "Guinea-Bissau";
-"country_british_indian_ccean_territory" = "Territorio Británico del Océano Índico";
-"country_ascension" = "Ascensión";
-"country_seychelles" = "Seychelles";
-"country_sudan" = "Sudán";
-"country_rwanda" = "Ruanda";
-"country_ethiopia" = "Etiopía";
-"country_somalia" = "Somalia";
-"country_somaliland" = "Somalilandia";
-"country_djibouti" = "Djibouti";
-"country_kenya" = "Kenia";
-"country_tanzania" = "Tanzania";
-"country_uganda" = "Uganda";
-"country_burundi" = "Burundi";
-"country_mozambique" = "Mozambique";
-"country_zambia" = "Zambia";
-"country_madagascar" = "Madagascar";
-"country_reunion" = "Reunión";
-"country_zimbabwe" = "Zimbabue";
-"country_namibia" = "Namibia";
-"country_malawi" = "Malawi";
-"country_lesotho" = "Lesoto";
-"country_botswana" = "Botswana";
-"country_swaziland" = "Swazilandia";
-"country_comoros" = "Comoras";
-"country_south_africa" = "Sudáfrica";
-"country_saint_helena" = "Santa Helena";
-"country_eritrea" = "Eritrea";
-"country_aruba" = "Aruba";
-"country_faroe_islands" = "Islas Feroe";
-"country_greenland" = "Groenlandia";
-"country_greece" = "Grecia";
-"country_netherlands" = "Países Bajos";
-"country_belgium" = "Bélgica";
-"country_france" = "Francia";
-"country_spain" = "España";
-"country_gibraltar" = "Gibraltar";
-"country_portugal" = "Portugal";
-"country_luxembourg" = "Luxemburgo";
-"country_ireland" = "Irlanda";
-"country_iceland" = "Islandia";
-"country_albania" = "Albania";
-"country_malta" = "Malta";
-"country_cyprus" = "Chipre";
-"country_finland" = "Finlandia";
-"country_hungary" = "Hungría";
-"country_bulgaria" = "Bulgaria";
-"country_lithuania" = "Lituania";
-"country_latvia" = "Letonia";
-"country_Estonia" = "Estonia";
-"country_moldova" = "Moldavia";
-"country_armenia" = "Armenia";
-"country_belarus" = "Bielorrusia";
-"country_andorra" = "Andorra";
-"country_monaco" = "Mónaco";
-"country_san_marino" = "San Marino";
-"country_vatican_city" = "Ciudad del Vaticano";
-"country_ukraine" = "Ucrania";
-"country_serbia" = "Serbia";
-"country_kosovo" = "Kosovo";
-"country_montenegro" = "Montenegro";
-"country_croatia" = "Croacia";
-"country_slovenia" = "Eslovenia";
-"country_bosnia_and_herzegovina" = "Bosnia y Herzegovina";
-"country_macedonia" = "Macedonia";
-"country_italy" = "Italia";
-"country_romania" = "Rumania";
-"country_switzerland" = "Suiza";
-"country_czech_republic" = "República Checa";
-"country_slovakia" = "Eslovaquia";
-"country_liechtenstein" = "Liechtenstein";
-"country_austria" = "Austria";
-"country_united_kingdom" = "Reino Unido";
-"country_denmark" = "Dinamarca";
-"country_sweden" = "Suecia";
-"country_norway" = "Noruega";
-"country_poland" = "Polonia";
-"country_germany" = "Alemania";
-"country_falkland_islands_islas_malvinas" = "Islas Malvinas";
-"country_belize" = "Belice";
-"country_guatemala" = "Guatemala";
-"country_el_salvador" = "El Salvador";
-"country_honduras" = "Honduras";
-"country_nicaragua" = "Nicaragua";
-"country_costa_rica" = "Costa Rica";
-"country_panama" = "Panamá";
-"country_saint_pierre_and_miquelon" = "San Pedro y Miquelón";
-"country_haiti" = "Haití";
-"country_peru" = "Perú";
-"country_mexico" = "México";
-"country_cuba" = "Cuba";
-"country_argentina" = "Argentina";
-"country_brazil" = "Brasil";
-"country_chile" = "Chile";
-"country_colombia" = "Colombia";
-"country_venezuela" = "Venezuela";
-"country_saint_barthelemy" = "San Bartolomé";
-"country_bolivia" = "Bolivia";
-"country_guyana" = "Guayana";
-"country_ecuador" = "Ecuador";
-"country_french_guiana" = "Guayana francés";
-"country_paraguay" = "Paraguay";
-"country_martinique" = "Martinica";
-"country_suriname" = "Suriname";
-"country_uruguay" = "Uruguay";
-"country_netherlands_antilles" = "Antillas Holandesas";
-"country_malaysia" = "Malasia";
-"country_australia" = "Australia";
-"country_indonesia" = "Indonesia";
-"country_philippines" = "Filipinas";
-"country_new_zealand" = "Nueva Zelanda";
-"country_singapore" = "Singapur";
-"country_thailand" = "Tailandia";
-"country_timorLeste_east_timor" = "Timor Oriental";
-"country_norfolk_island" = "Isla Norfolk";
-"country_brunei" = "Brunei";
-"country_nauru" = "Nauru";
-"country_papua_new_guinea" = "Papúa Nueva Guinea";
-"country_tonga" = "Tonga";
-"country_vanuatu" = "Vanuatu";
-"country_fiji" = "Fiji";
-"country_palau" = "Palau";
-"country_wallis_and_futuna" = "Wallis y Futuna";
-"country_cook_islands" = "Islas Cook";
-"country_niue" = "Niue";
-"country_samoa" = "Samoa";
-"country_kiribati" = "Kiribati";
-"country_new_caledonia" = "Nueva Caledonia";
-"country_tuvalu" = "Tuvalu";
-"country_french_polynesia" = "Polinesia francés";
-"country_tokelau" = "Tokelau";
-"country_micronesia" = "Micronesia";
-"country_marshall_islands" = "Islas Marshall";
-"country_russia" = "Rusia";
-"country_kazakhstan" = "Kazajstán";
-"country_japan" = "Japón";
-"country_korea_republic_of_south_korea" = "Corea del Sur";
-"country_vietnam" = "Vietnam";
-"country_korea_democratic_people_apos_s_republic_of_north_korea" = "Corea del Norte";
-"country_hong_kong" = "Hong Kong";
-"country_macau" = "Macau";
-"country_cambodia" = "Camboya";
-"country_laos" = "Laos";
-"country_china_people_s_republic_of" = "China";
-"country_bangladesh" = "Bangladesh";
-"country_china_republic_of_taiwan" = "Taiwán";
-"country_turkey" = "Pavo";
-"country_northern_cyprus" = "Norte de Chipre";
-"country_india" = "India";
-"country_pakistan" = "Pakistán";
-"country_afghanistan" = "Afganistán";
-"country_myanmar_burma" = "Myanmar (Birmania)";
-"country_maldives" = "Maldivas";
-"country_lebanon" = "Líbano";
-"country_sri_lanka" = "Sri Lanka";
-"country_jordan" = "Jordania";
-"country_syria" = "Siria";
-"country_iraq" = "Irak";
-"country_kuwait" = "Kuwait";
-"country_saudi_arabia" = "Arabia Saudita";
-"country_yemen" = "Yemen";
-"country_oman" = "Omán";
-"country_palestinian_territories_gaza_strip_and_west_bank" = "Territorios palestinos";
-"country_united_arab_emirates" = "Emiratos Árabes Unidos";
-"country_israel" = "Israel";
-"country_bahrain" = "Bahrein";
-"country_qatar" = "Katar";
-"country_bhutan" = "Bután";
-"country_mongolia" = "Mongolia";
-"country_nepal" = "Nepal";
-"country_iran" = "Irán";
-"country_tajikistan" = "Tayikistán";
-"country_turkmenistan" = "Turkmenistán";
-"country_azerbaijan" = "Azerbaiyán";
-"country_georgia" = "Georgia";
-"country_abkhazia" = "Abjasia";
-"country_south_ossetia" = "Osetia del Sur";
-"country_kyrgyzstan" = "Kirguistán";
-"country_uzbekistan" = "Uzbekistán";
+"country_canada" = "country_canada";
+"country_united_states" = "country_united_states";
+"country_bahamas_the" = "country_bahamas_the";
+"country_barbados" = "country_barbados";
+"country_anguilla" = "country_anguilla";
+"country_antigua_and_barbuda" = "country_antigua_and_barbuda";
+"country_british_virgin_islands" = "country_british_virgin_islands";
+"country_us_virgin_islands" = "country_us_virgin_islands";
+"country_cayman_islands" = "country_cayman_islands";
+"country_bermuda" = "country_bermuda";
+"country_grenada" = "country_grenada";
+"country_turks_and_caicos_islands" = "country_turks_and_caicos_islands";
+"country_montserrat" = "country_montserrat";
+"country_northern_mariana_islands" = "country_northern_mariana_islands";
+"country_guam" = "country_guam";
+"country_american_samoa" = "country_american_samoa";
+"country_saint_lucia" = "country_saint_lucia";
+"country_dominica" = "country_dominica";
+"country_saint_vincent_and_the_grenadines" = "country_saint_vincent_and_the_grenadines";
+"country_puerto_rico" = "country_puerto_rico";
+"country_dominican_republic" = "country_dominican_republic";
+"country_trinidad_and_tobago" = "country_trinidad_and_tobago";
+"country_saint_kitts_and_nevis" = "country_saint_kitts_and_nevis";
+"country_saint_jamaica" = "country_saint_jamaica";
+"country_egypt" = "country_egypt";
+"country_morocco" = "country_morocco";
+"country_algeria" = "country_algeria";
+"country_tunisia" = "country_tunisia";
+"country_libya" = "country_libya";
+"country_gambia_the" = "country_gambia_the";
+"country_senegal" = "country_senegal";
+"country_mauritania" = "country_mauritania";
+"country_mali" = "country_mali";
+"country_guinea" = "country_guinea";
+"country_cote_d_ivoire_ivory_coast" = "country_cote_d_ivoire_ivory_coast";
+"country_burkina_faso" = "country_burkina_faso";
+"country_niger" = "country_niger";
+"country_togo" = "country_togo";
+"country_benin" = "country_benin";
+"country_mauritius" = "country_mauritius";
+"country_liberia" = "country_liberia";
+"country_sierra_leone" = "country_sierra_leone";
+"country_ghana" = "country_ghana";
+"country_nigeria" = "country_nigeria";
+"country_chad" = "country_chad";
+"country_central_african_republic" = "country_central_african_republic";
+"country_cameroon" = "country_cameroon";
+"country_cape_verde" = "country_cape_verde";
+"country_sao_tome_and_principe" = "country_sao_tome_and_principe";
+"country_equatorial_guinea" = "country_equatorial_guinea";
+"country_gabon" = "country_gabon";
+"country_congo_republic_of_the_congo_brazzaville" = "country_congo_republic_of_the_congo_brazzaville";
+"country_congo_democratic_republic_of_the_congo_kinshasa" = "country_congo_democratic_republic_of_the_congo_kinshasa";
+"country_angola" = "country_angola";
+"country_guineaBissau" = "country_guineaBissau";
+"country_british_indian_ccean_territory" = "country_british_indian_ccean_territory";
+"country_ascension" = "country_ascension";
+"country_seychelles" = "country_seychelles";
+"country_sudan" = "country_sudan";
+"country_rwanda" = "country_rwanda";
+"country_ethiopia" = "country_ethiopia";
+"country_somalia" = "country_somalia";
+"country_somaliland" = "country_somaliland";
+"country_djibouti" = "country_djibouti";
+"country_kenya" = "country_kenya";
+"country_tanzania" = "country_tanzania";
+"country_uganda" = "country_uganda";
+"country_burundi" = "country_burundi";
+"country_mozambique" = "country_mozambique";
+"country_zambia" = "country_zambia";
+"country_madagascar" = "country_madagascar";
+"country_reunion" = "country_reunion";
+"country_zimbabwe" = "country_zimbabwe";
+"country_namibia" = "country_namibia";
+"country_malawi" = "country_malawi";
+"country_lesotho" = "country_lesotho";
+"country_botswana" = "country_botswana";
+"country_swaziland" = "country_swaziland";
+"country_comoros" = "country_comoros";
+"country_south_africa" = "country_south_africa";
+"country_saint_helena" = "country_saint_helena";
+"country_eritrea" = "country_eritrea";
+"country_aruba" = "country_aruba";
+"country_faroe_islands" = "country_faroe_islands";
+"country_greenland" = "country_greenland";
+"country_greece" = "country_greece";
+"country_netherlands" = "country_netherlands";
+"country_belgium" = "country_belgium";
+"country_france" = "country_france";
+"country_spain" = "country_spain";
+"country_gibraltar" = "country_gibraltar";
+"country_portugal" = "country_portugal";
+"country_luxembourg" = "country_luxembourg";
+"country_ireland" = "country_ireland";
+"country_iceland" = "country_iceland";
+"country_albania" = "country_albania";
+"country_malta" = "country_malta";
+"country_cyprus" = "country_cyprus";
+"country_finland" = "country_finland";
+"country_hungary" = "country_hungary";
+"country_bulgaria" = "country_bulgaria";
+"country_lithuania" = "country_lithuania";
+"country_latvia" = "country_latvia";
+"country_Estonia" = "country_Estonia";
+"country_moldova" = "country_moldova";
+"country_armenia" = "country_armenia";
+"country_belarus" = "country_belarus";
+"country_andorra" = "country_andorra";
+"country_monaco" = "country_monaco";
+"country_san_marino" = "country_san_marino";
+"country_vatican_city" = "country_vatican_city";
+"country_ukraine" = "country_ukraine";
+"country_serbia" = "country_serbia";
+"country_kosovo" = "country_kosovo";
+"country_montenegro" = "country_montenegro";
+"country_croatia" = "country_croatia";
+"country_slovenia" = "country_slovenia";
+"country_bosnia_and_herzegovina" = "country_bosnia_and_herzegovina";
+"country_macedonia" = "country_macedonia";
+"country_italy" = "country_italy";
+"country_romania" = "country_romania";
+"country_switzerland" = "country_switzerland";
+"country_czech_republic" = "country_czech_republic";
+"country_slovakia" = "country_slovakia";
+"country_liechtenstein" = "country_liechtenstein";
+"country_austria" = "country_austria";
+"country_united_kingdom" = "country_united_kingdom";
+"country_denmark" = "country_denmark";
+"country_sweden" = "country_sweden";
+"country_norway" = "country_norway";
+"country_poland" = "country_poland";
+"country_germany" = "country_germany";
+"country_falkland_islands_islas_malvinas" = "country_falkland_islands_islas_malvinas";
+"country_belize" = "country_belize";
+"country_guatemala" = "country_guatemala";
+"country_el_salvador" = "country_el_salvador";
+"country_honduras" = "country_honduras";
+"country_nicaragua" = "country_nicaragua";
+"country_costa_rica" = "country_costa_rica";
+"country_panama" = "country_panama";
+"country_saint_pierre_and_miquelon" = "country_saint_pierre_and_miquelon";
+"country_haiti" = "country_haiti";
+"country_peru" = "country_peru";
+"country_mexico" = "country_mexico";
+"country_cuba" = "country_cuba";
+"country_argentina" = "country_argentina";
+"country_brazil" = "country_brazil";
+"country_chile" = "country_chile";
+"country_colombia" = "country_colombia";
+"country_venezuela" = "country_venezuela";
+"country_saint_barthelemy" = "country_saint_barthelemy";
+"country_bolivia" = "country_bolivia";
+"country_guyana" = "country_guyana";
+"country_ecuador" = "country_ecuador";
+"country_french_guiana" = "country_french_guiana";
+"country_paraguay" = "country_paraguay";
+"country_martinique" = "country_martinique";
+"country_suriname" = "country_suriname";
+"country_uruguay" = "country_uruguay";
+"country_netherlands_antilles" = "country_netherlands_antilles";
+"country_malaysia" = "country_malaysia";
+"country_australia" = "country_australia";
+"country_indonesia" = "country_indonesia";
+"country_philippines" = "country_philippines";
+"country_new_zealand" = "country_new_zealand";
+"country_singapore" = "country_singapore";
+"country_thailand" = "country_thailand";
+"country_timorLeste_east_timor" = "country_timorLeste_east_timor";
+"country_norfolk_island" = "country_norfolk_island";
+"country_brunei" = "country_brunei";
+"country_nauru" = "country_nauru";
+"country_papua_new_guinea" = "country_papua_new_guinea";
+"country_tonga" = "country_tonga";
+"country_vanuatu" = "country_vanuatu";
+"country_fiji" = "country_fiji";
+"country_palau" = "country_palau";
+"country_wallis_and_futuna" = "country_wallis_and_futuna";
+"country_cook_islands" = "country_cook_islands";
+"country_niue" = "country_niue";
+"country_samoa" = "country_samoa";
+"country_kiribati" = "country_kiribati";
+"country_new_caledonia" = "country_new_caledonia";
+"country_tuvalu" = "country_tuvalu";
+"country_french_polynesia" = "country_french_polynesia";
+"country_tokelau" = "country_tokelau";
+"country_micronesia" = "country_micronesia";
+"country_marshall_islands" = "country_marshall_islands";
+"country_russia" = "country_russia";
+"country_kazakhstan" = "country_kazakhstan";
+"country_japan" = "country_japan";
+"country_korea_republic_of_south_korea" = "country_korea_republic_of_south_korea";
+"country_vietnam" = "country_vietnam";
+"country_korea_democratic_people_apos_s_republic_of_north_korea" = "country_korea_democratic_people_apos_s_republic_of_north_korea";
+"country_hong_kong" = "country_hong_kong";
+"country_macau" = "country_macau";
+"country_cambodia" = "country_cambodia";
+"country_laos" = "country_laos";
+"country_china_people_s_republic_of" = "country_china_people_s_republic_of";
+"country_bangladesh" = "country_bangladesh";
+"country_china_republic_of_taiwan" = "country_china_republic_of_taiwan";
+"country_turkey" = "country_turkey";
+"country_northern_cyprus" = "country_northern_cyprus";
+"country_india" = "country_india";
+"country_pakistan" = "country_pakistan";
+"country_afghanistan" = "country_afghanistan";
+"country_myanmar_burma" = "country_myanmar_burma";
+"country_maldives" = "country_maldives";
+"country_lebanon" = "country_lebanon";
+"country_sri_lanka" = "country_sri_lanka";
+"country_jordan" = "country_jordan";
+"country_syria" = "country_syria";
+"country_iraq" = "country_iraq";
+"country_kuwait" = "country_kuwait";
+"country_saudi_arabia" = "country_saudi_arabia";
+"country_yemen" = "country_yemen";
+"country_oman" = "country_oman";
+"country_palestinian_territories_gaza_strip_and_west_bank" = "country_palestinian_territories_gaza_strip_and_west_bank";
+"country_united_arab_emirates" = "country_united_arab_emirates";
+"country_israel" = "country_israel";
+"country_bahrain" = "country_bahrain";
+"country_qatar" = "country_qatar";
+"country_bhutan" = "country_bhutan";
+"country_mongolia" = "country_mongolia";
+"country_nepal" = "country_nepal";
+"country_iran" = "country_iran";
+"country_tajikistan" = "country_tajikistan";
+"country_turkmenistan" = "country_turkmenistan";
+"country_azerbaijan" = "country_azerbaijan";
+"country_georgia" = "country_georgia";
+"country_abkhazia" = "country_abkhazia";
+"country_south_ossetia" = "country_south_ossetia";
+"country_kyrgyzstan" = "country_kyrgyzstan";
+"country_uzbekistan" = "country_uzbekistan";
 
 /*Contact Manager App Strings*/
-"app_name" = "SpaxTel";
-"action_settings" = "Ajustes";
-"targetAccountLabel" = "Cuenta de Destino";
-"contactEmailLabel" = "Email de Contacto";
-"contactNameLabel" = "Nombre de Contacto";
-"contactPhoneLabel" = "Teléfono de Contacto";
+"app_name" = "app_name";
+"action_settings" = "action_settings";
+"targetAccountLabel" = "targetAccountLabel";
+"contactEmailLabel" = "contactEmailLabel";
+"contactNameLabel" = "contactNameLabel";
+"contactPhoneLabel" = "contactPhoneLabel";
 
 /*Spaxtel app Strings*/
-"select_country" = "Seleccionar País";
-"edit" = "Editar";
-"callback_number_delete_warning" = "El número de respuesta por defecto no puede borrarse.";
-"set_as_default" = "Establecer como predeterminado";
-"add" = "Añadir";
-"action_delete" = "Borrar";
-"action_add_to_favorites" = "Añadir a favoritos";
-"registering_message" = "Registrando...";
-"prompt_for_each_call" = "Preguntar en cada llamada";
-"use_default_callback" = "Usar sistema por defecto";
-"active_service_indicator" = " (activo)";
-"service_levels_dialog_title" = "Niveles de Servicio";
-"rate_app_dialog_message" = "Puesto que ya llevas un tiempo usando %@ este seria un gran momento para que lo evaluases.";
-"service_level_key" = "nivel-de-servicio";
-"service_level_platinum" = "Servicio Platino";
-"service_level_gold" = "Servicio Oro";
-"service_level_discount" = "Servicio Económico";
-"service_level_platinum_value" = "0";
-"service_level_gold_value" = "1";
-"service_level_discount_value" = "2";
-"service_level_platinum_description" = "Ofrecemos la mejor calidad de llamada de los mejores proveedores de primera linea. La identificación de la llamada se transifere debidamente. La llamada se realiza en bloques de 30 segundos.";
-"service_level_gold_description" = "Una buena combinación de coste y calidad - perfecta para la mayor parte de destinos. Cobro de llamadas en bloques de 1 minuto.";
-"service_level_discount_description" = "Las tarifas mas bajas que podemos ofrecer. Calidad no garantizada - aunque ofrecemos lo mejor que podemos. Cobro de llamadas en bloques de 1 minuto.";
-"dialog_callback_is_empty" = "Por favor añade al menos un número de respuesta. Este es el número que %@ utiliza para llamarte de vuelta (pe: tu móvil).";
-"dialog_info_about_sms" = "Ya que no estas conectado a Internet %@ puede iniciar la llamad por SMS. El coste del mensaje corresponde al coste que carga tu operador por enviar un SMS a Reino Unido.";
-"label_my_account_text" = "Por favor escribe los datos de tu cuenta.";
-"label_welcome_title" = "Hola, Bienvenido a %@!";
-"decline_call" = "Ignorar";
-"clear_call" = "Finalizar";
-"bluetooth" = "BlueTooth";
-"speaker" = "Altavoz";
-"mute" = "Mute";
-"call_state_calling" = "Llamando…";
-"call_state_confirmed" = "Hablando";
-"call_state_connecting" = "Conectando…";
-"call_state_disconnected" = "Colgar";
-"call_state_early" = "Sonando…";
-"call_state_incoming" = "Llamada entrantel…";
-"call_state_null" = "ERROR";
-"hold_call" = "Pausar";
-"send_dtmf" = "Enviar DTMF";
-"call" = "Llamar";
-"sip_call" = "Llamada SIP";
-"prefs_media" = "Medios";
+"select_country" = "select_country";
+"edit" = "edit";
+"callback_number_delete_warning" = "callback_number_delete_warning";
+"set_as_default" = "set_as_default";
+"add" = "add";
+"action_delete" = "action_delete";
+"action_add_to_favorites" = "action_add_to_favorites";
+"registering_message" = "registering_message";
+"prompt_for_each_call" = "prompt_for_each_call";
+"use_default_callback" = "use_default_callback";
+"active_service_indicator" = "active_service_indicator";
+"service_levels_dialog_title" = "service_levels_dialog_title";
+"rate_app_dialog_message" = "rate_app_dialog_message";
+"service_level_key" = "service_level_key";
+"service_level_platinum" = "service_level_platinum";
+"service_level_gold" = "service_level_gold";
+"service_level_discount" = "service_level_discount";
+"service_level_platinum_value" = "service_level_platinum_value";
+"service_level_gold_value" = "service_level_gold_value";
+"service_level_discount_value" = "service_level_discount_value";
+"service_level_platinum_description" = "service_level_platinum_description";
+"service_level_gold_description" = "service_level_gold_description";
+"service_level_discount_description" = "service_level_discount_description";
+"dialog_callback_is_empty" = "dialog_callback_is_empty";
+"dialog_info_about_sms" = "dialog_info_about_sms";
+"label_my_account_text" = "label_my_account_text";
+"label_welcome_title" = "label_welcome_title";
+"decline_call" = "decline_call";
+"clear_call" = "clear_call";
+"bluetooth" = "bluetooth";
+"speaker" = "speaker";
+"mute" = "mute";
+"call_state_calling" = "call_state_calling";
+"call_state_confirmed" = "call_state_confirmed";
+"call_state_connecting" = "call_state_connecting";
+"call_state_disconnected" = "call_state_disconnected";
+"call_state_early" = "call_state_early";
+"call_state_incoming" = "call_state_incoming";
+"call_state_null" = "call_state_null";
+"hold_call" = "hold_call";
+"send_dtmf" = "send_dtmf";
+"call" = "call";
+"sip_call" = "sip_call";
+"prefs_media" = "prefs_media";
 
 /*Media*/
-"echo_cancellation" = "Echo cancellation";
-"digest" = "Digest";
-"pgp" = "PGP";
-"plain_password" = "Plain password";
-"data_digest" = "Data digest";
-"disabled" = "Disabled";
-"optional" = "Optional";
-"mandatory" = "Mandatory";
-"auto" = "Auto";
-"rtp" = "RTP";
-"in_band" = "In band generation";
-"sip_info" = "SIP INFO";
-"legacy" = "Legacy";
-"normal" = "Normal";
-"force" = "Force";
-"prevent" = "Prevent";
-"speex" = "Speex";
-"simple" = "Simple";
-"webrtc" = "WebRTC";
-"use_android_setting" = "Use Android setting";
-"slow" = "Slow";
-"fast" = "Fast";
-"no_proxy" = "No proxy";
-"outbound_proxies" = "Outbound proxies";
-"accounts_proxies" = "Accounts proxies";
-"all" = "All";
-"no_zrtp" = "No ZRTP";
-"create_zrtp" = "Create ZRTP";
-"default_str" = "Default";
+"echo_cancellation" = "echo_cancellation";
+"digest" = "digest";
+"pgp" = "pgp";
+"plain_password" = "plain_password";
+"data_digest" = "data_digest";
+"disabled" = "disabled";
+"optional" = "optional";
+"mandatory" = "";
+"auto" = "";
+"rtp" = "";
+"in_band" = "";
+"sip_info" = "";
+"legacy" = "";
+"normal" = "";
+"force" = "";
+"prevent" = "";
+"speex" = "";
+"simple" = "";
+"webrtc" = "";
+"use_android_setting" = "";
+"slow" = "";
+"fast" = "";
+"no_proxy" = "";
+"outbound_proxies" = "";
+"accounts_proxies" = "";
+"all" = "";
+"no_zrtp" = "";
+"create_zrtp" = "";
+"default_str" = "";
 
 /*Generic*/
-"platinum_service_tab_title" = "Platino VIP";
-"gold_service_tab_title" = "Oro";
-"discount_service_tab_title" = "Económico";
-"connection_not_valid" = "Selected network route not allowed with current settings you have setup";
-"invalid_sip_uri" = "Sip uri is invalid for call";
-"save" = "Guardar";
-"cancel" = "Cancelar";
-"use_pstn" = "Usar móvil";
-"ongoing_call" = "Llamada en progreso";
-"missed_call" = "Llamada perdidal";
-"contacts_tab_name_text" = "Contacts";
-"service_ticker_registered_text" = "SIP Registered";
-"ok" = "OK";
-"another_application_use_sip_port" = "Another application is currently using SIP port! Can't start !!!";
-"choose_phone" = "Choose phone";
-"no_phone_found" = "No phone found for this contact";
-"voice_mail" = "Voice mail";
-"not_configured_multiple_calls" = "The application is not configured to allow multiple calls";
-"loading" = "Loading";
+"platinum_service_tab_title" = "";
+"gold_service_tab_title" = "";
+"discount_service_tab_title" = "";
+"connection_not_valid" = "";
+"invalid_sip_uri" = "";
+"save" = "";
+"cancel" = "";
+"use_pstn" = "";
+"ongoing_call" = "";
+"missed_call" = "";
+"contacts_tab_name_text" = "";
+"service_ticker_registered_text" = "";
+"ok" = "";
+"another_application_use_sip_port" = "";
+"choose_phone" = "";
+"no_phone_found" = "";
+"voice_mail" = "";
+"not_configured_multiple_calls" = "";
+"loading" = "";
 
 /*Presence stuff*/
-"online" = "Conectado";
-"offline" = "Desconectado";
-"away" = "Ausente";
-"busy" = "Ocupado";
-"uri_nbr" = "Teléfono";
-"uri_im" = "IM con diseño SIP personalizado";
+"online" = "";
+"offline" = "";
+"away" = "";
+"busy" = "";
+"uri_nbr" = "";
+"uri_im" = "";
 
-/*Spaxtel Strings 
+/*Spaxtel Strings
  DIALOGS*/
-"dialog_account_data_is_empty" = "Por favor escrite los datos de tu cuenta.";
-"dialog_callback_wait_template_2" = "Por favor, solicita una llamada a";
-"dialog_cancel" = "Cancelar";
-"dialog_continue" = "Continue";
-"dialog_error" = "Error";
-"dialog_get_balance_template" = "Tu saldo es de %1$.2f USD.";
-"dialog_info" = "Información";
-"dialog_ok" = "OK";
-"dialog_please_wait" = "Por favor espera …";
-"dialog_rate_template" = "Llamar de %1$@ a %2$@ te costará $%3$@ USD por minuto.";
-"dialog_select_number" = "Selecciona el número";
-"dialog_select_callback_number" = "Selecciona el número de respuesta";
-"dialog_settings" = "Ajustes";
-"dialog_error_connection" = "Se necesita acceso a Internet para consultar tarifas. Por favor, inténtalo mas tarde.";
-"dialog_error_phonenumber_format" = "Número de teléfono no válido";
-"toast_phone_is_invalid" = "Para usar este contacto con %@, el formato del número debe ser + código de país + número. Corrije el número e inténtalo de nuevo.";
-"error_callback_empty" = "Por favor añade al menos un número de respuesta.";
-"error_callback_not_selected" = "Por favor selecciona un número de respuesta.";
-"error_email_is_required" = "El campo Email es obligatorio.";
-"error_email_is_not_valid" = "El email indicado no es válido.";
-"error_empty_description" = "Por favor escribe la descripción.";
-"error_empty_name" = "Por favor escribe el nombre.";
-"error_empty_number" = "Por favor escribe el número.";
-"error_favorite_already_exists" = "Ya existe un favorito con ese número.";
-"error_password_is_required" = "Debes indicar una contraseña.";
-"error_server_could_not_connect" = "No se puede conectar al servidor  Inténtalo de nuevo.";
-"error_server_could_not_receive_data" = "No se han recibido datos del servidor.";
-"error_server_timed_out" = "Tiempo de espera agotado.";
-"error_server_resposne_is_not_json" = "La respuesta del servidor no es JSON.";
-"error_server_service_unavailable" = "Servicio en mantenimiento. Se restaurará en breve. Gracias por esperar.";
-"error_open_google_play" = "No se puede abrir la app en Google Play ";
+"dialog_account_data_is_empty" = "";
+"dialog_callback_wait_template_2" = "";
+"dialog_cancel" = "";
+"dialog_continue" = "";
+"dialog_error" = "";
+"dialog_get_balance_template" = "";
+"dialog_info" = "";
+"dialog_ok" = "";
+"dialog_please_wait" = "";
+"dialog_rate_template" = "";
+"dialog_select_number" = "";
+"dialog_select_callback_number" = "";
+"dialog_settings" = "";
+"dialog_error_connection" = "";
+"dialog_error_phonenumber_format" = "";
+"toast_phone_is_invalid" = "";
+"error_callback_empty" = "";
+"error_callback_not_selected" = "";
+"error_email_is_required" = "";
+"error_email_is_not_valid" = "";
+"error_empty_description" = "";
+"error_empty_name" = "";
+"error_empty_number" = "";
+"error_favorite_already_exists" = "";
+"error_password_is_required" = "";
+"error_server_could_not_connect" = "";
+"error_server_could_not_receive_data" = "";
+"error_server_timed_out" = "";
+"error_server_resposne_is_not_json" = "";
+"error_server_service_unavailable" = "";
+"error_open_google_play" = "";
 
 /*SETTINGS*/
-"settings_about_title" = "Acerca de";
-"settings_about_title_sphone" = "Acerca de";
-"settings_callback_title" = "Número de respuesta";
-"settings_language_title" = "Escoge tu Idioma";
-"settings_callback_summary" = "Selecciona el número de respuesta";
-"settings_calling_method" = "Método de llamada";
-"settings_calling_method_summary" = "Elije entre usar callback o internet para hacer llamadas";
-"settings_calling_method_callback" = "Solo callback";
-"settings_calling_method_internet" = "Solo internet";
-"settings_calling_method_propmt" = "Preguntar en cada llamada";
-"settings_force_sms_callback_title" = "Forzar SMS Callback";
-"settings_force_sms_callback_summary" = "Usar SMS incluso si hay conexión a Internet";
-"settings_version_title" = "Versión";
-"settings_version_key" = "keyVersion";
-"settings_callcount_key" = "keyCallCount";
+"settings_about_title" = "";
+"settings_about_title_sphone" = "";
+"settings_callback_title" = "";
+"settings_language_title" = "";
+"settings_callback_summary" = "";
+"settings_calling_method" = "";
+"settings_calling_method_summary" = "";
+"settings_calling_method_callback" = "";
+"settings_calling_method_internet" = "";
+"settings_calling_method_propmt" = "";
+"settings_force_sms_callback_title" = "";
+"settings_force_sms_callback_summary" = "";
+"settings_version_title" = "";
+"settings_version_key" = "";
+"settings_callcount_key" = "";
 
 /*RESPONSE CODES OF SERVER*/
-"rc_unknown_template" = "Respuesta erronea del servidor (%1$d).";
-"rc_010" = "Acceso API o contraseña no válida.";
-"rc_022" = "Este número está bloqueado.";
-"rc_025" = "Contraseña demasiado corta.";
-"rc_030" = "El email ya está en uso.";
-"rc_031" = "Imposible determinar el número o código de pais.";
-"rc_032" = "Imposible crear cuenta de usuario.";
-"rc_033" = "No hay DIDs disponibles.";
-"rc_034" = "La contraseña debe tener 8 caracteres o menos y contener solo numeros y letras.";
-"rc_035" = "Nombre o apellido no válido.";
-"rc_036" = "El email indicado no es válido.";
-"rc_037" = "Número por defecto no válido.";
-"rc_041" = "DID inexistente o no se puede recuperar el saldo.";
-"rc_042" = "DID inexistente o no se puede  recargar.";
-"rc_043" = "Imposible recuperar saldo tras la recarga.";
-"rc_044" = "Usuaro o contraseña no valido. Por favor accede a Mi cuenta y verifica tus datos.";
-"rc_045" = "DID no corresponde a ningún cliente.";
-"rc_046" = "La cuenta existe pero el DID no está definido.";
-"rc_050" = "Faltan parámetros.";
-"rc_051" = "Email o contraseña no válida. Por favor revísalos.";
-"rc_060" = "El método no existe.";
-"rc_070" = "Parámetros no validos.";
-"rc_080" = "Método no válido.";
-"rc_090" = "Petición no válida.";
-"rc_100" = "Éxito";
+"rc_unknown_template" = "";
+"rc_010" = "";
+"rc_022" = "";
+"rc_025" = "";
+"rc_030" = "";
+"rc_031" = "";
+"rc_032" = "";
+"rc_033" = "";
+"rc_034" = "";
+"rc_035" = "";
+"rc_036" = "";
+"rc_037" = "";
+"rc_041" = "";
+"rc_042" = "";
+"rc_043" = "";
+"rc_044" = "";
+"rc_045" = "";
+"rc_046" = "";
+"rc_050" = "";
+"rc_051" = "";
+"rc_060" = "";
+"rc_070" = "";
+"rc_080" = "";
+"rc_090" = "";
+"rc_100" = "";
 
 /*TOASTS*/
-"toast_account_creadted" = "Cuenta creada correctamente.";
-"toast_favorite_added" = "Favorito añadido.";
+"toast_account_creadted" = "";
+"toast_favorite_added" = "";
 
 /*UI*/
-"button_cancel" = "Cancelar";
-"button_done" = "Listo";
-"button_get_rate" = "Ver tarifa";
-"button_settings" = "Opciones";
-"button_save" = "Guardar";
-"button_login" = "Iniciar Sesión";
-"hint_optional" = "Opcional";
-"hint_required" = "Requerido";
-"hint_search" = "Buscar";
-"label_callback_country" = "País:";
-"label_calling_from" = "Llamando desde:";
-"label_calling_level" = "Seleccionar nivel:";
-"label_calling_method_callback" = "Móvil Llamar desde movil";
-"label_calling_method_internet" = "Llamada Internet a Teléfono";
-"label_calling_to" = "Llamando a:";
-"label_email" = "Email:";
-"label_name" = "Nombre:";
-"label_no_result" = "Sin resultados";
-"label_password" = "Contraseña:";
-"label_phone_number" = "Número de Teléfono:";
-"label_unknown" = "Desconocido";
-"tab_contacts" = "Contactos";
-"tab_favorites" = "Favoritos";
-"tab_keypad" = "Telcado";
-"tab_recents" = "Reciente";
-"title_additional_settings" = "Ajustes adicionales";
-"getrate_title" = "Consultando Tarifa...";
+"button_cancel" = "";
+"button_done" = "";
+"button_get_rate" = "";
+"button_settings" = "";
+"button_save" = "";
+"button_login" = "";
+"hint_optional" = "";
+"hint_required" = "";
+"hint_search" = "";
+"label_callback_country" = "";
+"label_calling_from" = "";
+"label_calling_level" = "";
+"label_calling_method_callback" = "";
+"label_calling_method_internet" = "";
+"label_calling_to" = "";
+"label_email" = "";
+"label_name" = "";
+"label_no_result" = "";
+"label_password" = "";
+"label_phone_number" = "";
+"label_unknown" = "";
+"tab_contacts" = "";
+"tab_favorites" = "";
+"tab_keypad" = "";
+"tab_recents" = "";
+"title_additional_settings" = "";
+"getrate_title" = "";
 
 /*Charge Balance*/
-"label_charge_balance_1" = "Comprar $1 USD de Saldo de Prueba";
-"label_charge_balance_15" = "Comprar $15 USD de Crédito";
-"label_charge_balance_25" = "Comprar$25 USD de Crédito";
-"label_charge_balance_50" = "Comprar $50 USD de Crédito";
-"label_charge_balance_75" = "Comprar $75 USD de Crédito";
-"label_charge_balance_100" = "Comprar $100 USD de Crédito";
-"error_purchasing_payload_fail" = "Error en la compra. Verificación fallida.";
-"error_purchasing_no_google_play" = "Tu teléfono no soporta compras desde la app. Para recargar tu saldo visita https://www.spaxtel.com.";
-"error_purchasing_another_processing" = "Estamos procesando otra compra. Por favor inténtalo mas tarde.";
-"hello_world" = "Hola mundo!";
-"register" = "Registrarse";
-"sign_in" = "Acceder";
-"my_account" = "Mi Cuenta";
-"add_funds" = "Añadir Fondos";
-"callback_numbers" = "Números de Respuesta";
-"check_balance" = "Ver Saldo";
-"check_rates" = "Ver Tarifas";
-"service_levels" = "Niveles de Servicio ";
-"settings" = "Ajustes";
-"_1" = "1";
-"_2" = "2";
-"_3" = "3";
-"_4" = "4";
-"_5" = "5";
-"_6" = "6";
-"_7" = "7";
-"_8" = "8";
-"_9" = "9";
-"_" = "#";
-"_0" = "0";
-"contact_name" = "Nombre del Contacto";
-"contact_phone" = "Teléfono del Contacto";
-"call_time" = "Hora de Llamada";
-"take_call" = "Hacer Llamada";
-"video_call" = "Video Llamada";
-"zrtp_acceptance" = "ZRTP Acceptance";
+"label_charge_balance_1" = "";
+"label_charge_balance_15" = "";
+"label_charge_balance_25" = "";
+"label_charge_balance_50" = "";
+"label_charge_balance_75" = "";
+"label_charge_balance_100" = "";
+"error_purchasing_payload_fail" = "";
+"error_purchasing_no_google_play" = "";
+"error_purchasing_another_processing" = "";
+"hello_world" = "";
+"register" = "";
+"sign_in" = "";
+"my_account" = "";
+"add_funds" = "";
+"callback_numbers" = "";
+"check_balance" = "";
+"check_rates" = "";
+"service_levels" = "";
+"settings" = "";
+"_1" = "";
+"_2" = "";
+"_3" = "";
+"_4" = "";
+"_5" = "";
+"_6" = "";
+"_7" = "";
+"_8" = "";
+"_9" = "";
+"_" = "";
+"_0" = "";
+"contact_name" = "";
+"contact_phone" = "";
+"call_time" = "";
+"take_call" = "";
+"video_call" = "";
+"zrtp_acceptance" = "";
 
 /*Languages*/
-"language_english" = "English";
-"language_french" = "Français";
-"language_spanish" = "Español";
-"language_simplified_chinese" = "中文（简体）";
-"language_russian" = "Pусский";
-"language_german" = "Deutsch";
-"language_korean" = "한국의";
-"language_dutch" = "Nederlands";
-"language_hungarian" = "Magyar";
-"language_Portuguese" = "Português";
-"language_japanese" = "日本人";
+"language_english" = "";
+"language_french" = "";
+"language_spanish" = "";
+"language_simplified_chinese" = "";
+"language_russian" = "";
+"language_german" = "";
+"language_korean" = "";
+"language_dutch" = "";
+"language_hungarian" = "";
+"language_Portuguese" = "";
+"language_japanese" = "";
 
 /*<string name="language_italian">italiano </string>*/
-"calling_method" = "Método de llamada";
-"calling" = "Llamada";
-"network_quality" = "Calidad de red :␣";
-"keypad" = "Telcado";
-"text_end_call" = "Llamada Terminada";
+"calling_method" = "";
+"calling" = "";
+"network_quality" = "";
+"keypad" = "";
+"text_end_call" = "";
 
 /*Call or Register failure*/
-"msg_call_failure_title" = "El incumplimiento de llamadas";
-"msg_call_failure_msg" = "No se puede llamar en este momento. Por favor, inténtelo de nuevo más tarde!";
-"sip_trial_version_tips" = "La versión de prueba solo permite SDK breve conversación, no se puede escuchar nada después de 2 a 3 mintuos, póngase en contacto sales@portsip.com para comprar el SDK oficial.";
-"sip_wrong_lisence_tips" = "Esta muestra se construyó la base de lanzamiento PortSIP SDK VoIP, Se establece una clave de licencia de error. No dude en ponerse en contacto con nosotros en: support@portsip.com para comprobar la clave de licencia.";
+"msg_call_failure_title" = "";
+"msg_call_failure_msg" = "";
+"sip_trial_version_tips" = "";
+"sip_wrong_lisence_tips" = "";
 
 /*Register*/
-"text_verify" = "Confirmar";
-"text_continute_verify" = "Continuar";
-"text_label_chose_country" = "Elija el país de su número de móvil principal\nNecesitamos esto para hacer que sus llamadas se manejan de forma segura.";
-"text_hint_enter_number" = "Introduzca su número de";
-"text_label_enter_pin" = "Le hemos enviado un mensaje de texto con un código de 4 dígitos. Ingresa a continuación.";
-"text_label_number_screen" = "Vamos a empezar y confirme su número de teléfono:";
-"text_label_didnt_receive_code" = "¿No has recibido el código?";
-"text_label_call_me" = "Llámame";
-"text_label_try_free" = "Pruébalo gratis!";
-"text_label_email" = "Dirección De Correo Electrónico";
-"text_label_first_name" = "Nombre";
-"text_label_password" = "Contraseña";
-"text_label_friendly" = "Nos gusta ser amable!";
-"text_label_needthislogin" = "Usted necesita esto para iniciar sesión.";
-"text_label_pass" = "Por favor no se olvide de ella.\n(Debe ser de 8 caracteres o más)";
-"error_password_invalid" = "Campo de contraseña debe tener 8 caracteres o más";
-"text_all_done" = "TODO LISTO!";
-"error_number_invalid" = "El número no es válido";
-"error_wait_and_try" = "Por favor, espere 2 minutos y vuelva a intentarlo!";
-"error_pin_incorrect" = "Código PIN es incorrecto";
-"error_token_failed" = "Token es incorrecta o ya ha caducado / ha verificado. Por favor, vuelva a intentarlo.";
-"text_label_description" = "Descripción";
-"text_label_number" = "Tu Teléfono:";
-"text_label_add_callback" = "Introduzca el número de teléfono de un teléfono desde el que desea realizar llamadas. Número de devolución de llamada pueden incluir su número de móvil, su número de casa, número de una tarjeta SIM local, etc.";
-"text_title_add_callback" = "Añadir Número de regreso";
-"text_title_update_callback" = "Actualización de devolución de llamada";
-"text_title_add_favorite" = "Añadir favorito";
-"text_title_check_rate" = "Ver Precios";
-"text_title_review_conference" = "Conferencia de Examen";
-"text_start_review_conference" = "Comienzo";
-"text_label_review_conference" = "El costo total de esta conferencia será de $%@ USD/min. Pulse el botón Iniciar para comenzar.";
-"label_about" = "Spaxtel es una marca de Trifecta Consulting Limited.\n\nDirección: Trifecta Consulting Limited\nHabitación 2305A, 23 / F, World-Wide Casa\n19 Des Voeux Carretera Central\nCentral, Hong Kong";
-"label_about_sphone" = "Sphone is a brand of S-pay Group Limited.\n\nEmail: sphone@s-paygroup.com";
-"msg_title_logout" = "Cerrar sesión";
-"msg_message_logout" = "¿Seguro que quieres salir?";
-"text_label_moderator" = "Moderador:";
-"text_label_attendees" = "Asistentes:";
-"text_label_review_conference_no_rate" = "Pulse el botón Iniciar para comenzar.";
-"msg_message_added_call_back" = "Número de devolución de llamada agregado con éxito!";
-"msg_message_updated_call_back" = "Número de devolución de llamada actualiza correctamente!";
-"dialog_internet_required_conference" = "Se requiere Internet para iniciar una conferencia.";
-"dialog_internet_required_internet_call" = "Se requiere Internet para iniciar una llamada por Internet.";
-"dialog_internet_required_add_funds" = "Su saldo es demasiado baja para realizar llamadas. Para añadir fondos, haga clic en Configuración y luego Agregar fondos.";
-"dialog_internet_required_continue" = "Se requiere Internet para continuar.";
-"text_balance" = "Crédito";
-"text_free_calls" = "Llamadas Gratuitas";
-"send_feedback" = "Enviar Comentarios";
-"terms_and_conditions" = "Términos Y Condiciones";
-"text_freecalls_details" = "Comparte tu código promocional con su familia y que obtendrá un saldo de apertura libre de $%1$@ USD. Una vez que hayas registrado, recibirás automáticamente $%2$@ de crédito USD bono añadido a su saldo también.";
-"text_freecalls_share_string" = "Utilizar mi código promocional SpaxTel, %1$@, y obtener $%2$@ USD llamadas internacionales gratuitas. Canjearlo en %3$@";
-"text_freecall_share_subjec" = "$%@ USD llamadas internacionales gratis!";
-"text_freecall_share_title" = "Enviar a";
-"text_freecalls_label_1" = "Enviar amigos de crédito SpaxTel libre y usted ganará crédito de bonificación también, por valor de $%1$@ USD!";
-"text_freecall_label_0" = "COMPARTIR SU INVITE CÓDIGO";
-"text_freecall_label_details" = "Detalles";
-"text_freecall_invite_friends" = "INVITAR A AMIGOS";
-"transfer_credit" = "Transferencia de Créditos";
-"transfer_credit_send" = "Enviar";
-"transfer_credit_input_spaxtel_id" = "Del destinatario SpaxTel ID:";
-"transfer_credit_amount" = "Importe (USD):";
-"transfer_credit_your_pass" = "Tu Contraseña:";
-"transfer_credit_spaxtel_id_is_empty" = "Del destinatario SpaxTel ID está vacía.";
-"transfer_credit_amount_is_empty" = "Monto está vacía.";
-"transfer_credit_amount_format_error" = "Monto está en el formato correcto.";
-"transfer_credit_amount_minimum" = "La cantidad de transferencia mínima es de $1 USD.";
-"transfer_credit_amount_not_enought" = "Su saldo actual es de $%1$.2f USD. No se puede transferir más.";
-"transfer_credit_your_pass_is_empty" = "Su contraseña está vacía.";
-"transfer_credit_your_pass_is_incorrect" = "Tu contraseña es incorrecta.";
-"dialog_internet_required_transfer_credit" = "Se requiere Internet para transferir crédito.";
-"dialog_transfer_failure" = "No se pueden transferir de crédito en este momento. Por favor, inténtelo de nuevo más tarde!";
-"transfer_credit_label" = "Compartir SpaxTel con sus amigos y familiares. Envíalas llamando crédito y hacerles disfrutar de precios y calidad excepcionales de SpaxTel. La cantidad mínima de transferencia si $1 USD.\n\nNota: SpaxTel no es responsable de las transferencias incorrectas y no puede revertir cualquier transacción.";
-"transfer_credit_confirm" = "¿Quieres transferir $%1$.2f USD a la cuenta %2$@?";
-"transfer_credit_show_success" = "Usted ha transferido con éxito $%1$.2f USD a cuenta SpaxTel %2$@.";
-"transfer_credit_result_code_51" = "No existe el SpaxTel ID %1$@.";
-"transfer_credit_blocked" = "No es posible transferir crédito.";
-"transfer_credit_is_acc_company" = "Los usuarios de cuentas de la empresa no pueden transferir crédito.";
-"transfer_credit_waiting" = "Por favor espera ...";
-"history_getting_list" = "Conseguir historial de llamadas...";
-"history_action_view_info" = "Información Call";
-"history_not_available" = "No disponible";
-"history_conference" = "Conferencia";
-"history_from" = "Desde";
-"history_to" = "a";
-"history_service_level" = "Nivel de Servicio";
-"history_duration" = "Duración";
-"history_price" = "Precio";
-"history_add_to_fav" = "Añadir a favoritos";
-"advanced" = "Avanzado";
-"advanced_select_option" = "Seleccionar Opción";
-"advanced_pause" = "Pausa";
-"advanced_dial_number" = "Marcar número";
-"advanced_say" = "Decir";
-"advanced_dial_star" = "Marque *";
-"advanced_dial_sign" = "Marque #";
-"advanced_pause_hint" = "Introduzca el número de segundos para hacer una pausa.";
-"advanced_dial_number_hint" = "Introduzca el número que desea marcar.";
-"advanced_say_hint" = "Introduzca el texto para decir.";
-"advanced_dial_star_hint" = "A continuación, pulse *";
-"advanced_dial_sign_hint" = "A continuación, pulse #";
-"callback_already_using" = "%1$@ ya está utilizando este número.";
-"recording" = "Las Llamadas Grabadas";
-"recording_send" = "Enviar";
-"recording_delete_confirm" = "¿Quieres eliminar esta grabación?";
-"recording_text" = "Grabar";
-"available_balance" = "Disponible %@ Equilibrio";
-"purchase_credit" = "Compra de créditos";
-"buy_purchase_credit" = "Comprar $%1$@ USD crédito";
-"not_a_member" = "No es un miembro?";
-"register_now" = "Regístrate ahora!";
-"advanced_then_text" = "Entonces";
-"advanced_pause_text" = "Espere %1$@ segundos";
-"advanced_dial_number_text" = "Dial %1$@";
-"advanced_say_text" = "Diga \"%1$@\"";
-"service_level_update_message" = "Nivel de servicio actualizado a %1$@ correctamente!";
-"internet_text" = "Internet";
-"title_tab_recents" = "Llamadas recientes";
-"preference_calling_method_callback" = "Llamada regular siempre";
-"preference_calling_method_internet" = "Llamada de Internet siempre";
-"preference_calling_method_prompt" = "Pregunte por cada llamada";
-"tag_calling_method_callback" = "Regular";
-"tag_calling_method_internet" = "Internet";
-"tag_calling_method_prompt" = "Preguntar";
-"conference_limit_info" = "Su cuenta permite llamadas de conferencia con participantes %1$d. Para aumentar este límite, por favor póngase en contacto con nosotros.";
-"phone_ring" = "Cuando suene el teléfono,\n contestarlo";
-"settings_use_default_callback_summary" = "Utilice un mensaje SMS para iniciar una llamada a su teléfono, incluso si Internet está disponible.";
-"advanced_then_press_sign" = "A continuación, pulse #";
-"advanced_then_dial" = "Luego marque %1$@";
-"advanced_then_pause" = "Luego espere %1$@ segundos";
-"advanced_then_say" = "Entonces decir \"%1$@\"";
-"advanced_then_press_star" = "A continuación, pulse *";
+"text_verify" = "";
+"text_continute_verify" = "";
+"text_label_chose_country" = "";
+"text_hint_enter_number" = "";
+"text_label_enter_pin" = "";
+"text_label_number_screen" = "";
+"text_label_didnt_receive_code" = "";
+"text_label_call_me" = "";
+"text_label_try_free" = "";
+"text_label_email" = "";
+"text_label_first_name" = "";
+"text_label_password" = "";
+"text_label_friendly" = "";
+"text_label_needthislogin" = "";
+"text_label_pass" = "";
+"error_password_invalid" = "";
+"text_all_done" = "";
+"error_number_invalid" = "";
+"error_wait_and_try" = "";
+"error_pin_incorrect" = "";
+"error_token_failed" = "";
+"text_label_description" = "";
+"text_label_number" = "";
+"text_label_add_callback" = "";
+"text_title_add_callback" = "";
+"text_title_update_callback" = "";
+"text_title_add_favorite" = "";
+"text_title_check_rate" = "";
+"text_title_review_conference" = "";
+"text_start_review_conference" = "";
+"text_label_review_conference" = "";
+"label_about" = "";
+"label_about_sphone" = "";
+"msg_title_logout" = "";
+"msg_message_logout" = "";
+"text_label_moderator" = "";
+"text_label_attendees" = "";
+"text_label_review_conference_no_rate" = "";
+"msg_message_added_call_back" = "";
+"msg_message_updated_call_back" = "";
+"dialog_internet_required_conference" = "";
+"dialog_internet_required_internet_call" = "";
+"dialog_internet_required_add_funds" = "";
+"dialog_internet_required_continue" = "";
+"text_balance" = "";
+"text_free_calls" = "";
+"send_feedback" = "";
+"terms_and_conditions" = "";
+"text_freecalls_details" = "";
+"text_freecalls_share_string" = "";
+"text_freecall_share_subjec" = "";
+"text_freecall_share_title" = "";
+"text_freecalls_label_1" = "";
+"text_freecall_label_0" = "";
+"text_freecall_label_details" = "";
+"text_freecall_invite_friends" = "";
+"transfer_credit" = "";
+"transfer_credit_send" = "";
+"transfer_credit_input_spaxtel_id" = "";
+"transfer_credit_amount" = "";
+"transfer_credit_your_pass" = "";
+"transfer_credit_spaxtel_id_is_empty" = "";
+"transfer_credit_amount_is_empty" = "";
+"transfer_credit_amount_format_error" = "";
+"transfer_credit_amount_minimum" = "";
+"transfer_credit_amount_not_enought" = "";
+"transfer_credit_your_pass_is_empty" = "";
+"transfer_credit_your_pass_is_incorrect" = "";
+"dialog_internet_required_transfer_credit" = "";
+"dialog_transfer_failure" = "";
+"transfer_credit_label" = "";
+"transfer_credit_confirm" = "";
+"transfer_credit_show_success" = "";
+"transfer_credit_result_code_51" = "";
+"transfer_credit_blocked" = "";
+"transfer_credit_is_acc_company" = "";
+"transfer_credit_waiting" = "";
+"history_getting_list" = "";
+"history_action_view_info" = "";
+"history_not_available" = "";
+"history_conference" = "";
+"history_from" = "";
+"history_to" = "";
+"history_service_level" = "";
+"history_duration" = "";
+"history_price" = "";
+"history_add_to_fav" = "";
+"advanced" = "";
+"advanced_select_option" = "";
+"advanced_pause" = "";
+"advanced_dial_number" = "";
+"advanced_say" = "";
+"advanced_dial_star" = "";
+"advanced_dial_sign" = "";
+"advanced_pause_hint" = "";
+"advanced_dial_number_hint" = "";
+"advanced_say_hint" = "";
+"advanced_dial_star_hint" = "";
+"advanced_dial_sign_hint" = "";
+"callback_already_using" = "";
+"recording" = "";
+"recording_send" = "";
+"recording_delete_confirm" = "";
+"recording_text" = "";
+"available_balance" = "";
+"purchase_credit" = "";
+"buy_purchase_credit" = "";
+"not_a_member" = "";
+"register_now" = "";
+"advanced_then_text" = "";
+"advanced_pause_text" = "";
+"advanced_dial_number_text" = "";
+"advanced_say_text" = "";
+"service_level_update_message" = "";
+"internet_text" = "";
+"title_tab_recents" = "";
+"preference_calling_method_callback" = "";
+"preference_calling_method_internet" = "";
+"preference_calling_method_prompt" = "";
+"tag_calling_method_callback" = "";
+"tag_calling_method_internet" = "";
+"tag_calling_method_prompt" = "";
+"conference_limit_info" = "";
+"phone_ring" = "";
+"settings_use_default_callback_summary" = "";
+"advanced_then_press_sign" = "";
+"advanced_then_dial" = "";
+"advanced_then_pause" = "";
+"advanced_then_say" = "";
+"advanced_then_press_star" = "";
+
+/*No comment provided by engineer.*/
+"account_settings" = "";
+
+/*No comment provided by engineer.*/
+"add_callback_number" = "";
+
+/*No comment provided by engineer.*/
+"alert_requires_access_to_contacts" = "";
+
+/*No comment provided by engineer.*/
+"alert_reset_password_successfully" = "";
+
+/*No comment provided by engineer.*/
+"allow" = "";
+
+/*No comment provided by engineer.*/
+"balance_usd" = "";
+
+/*No comment provided by engineer.*/
+"can_not_send_message" = "";
+
+/*No comment provided by engineer.*/
+"cant_get_limit_participants" = "";
+
+/*No comment provided by engineer.*/
+"check_rate_select_calling_from" = "";
+
+/*No comment provided by engineer.*/
+"check_rate_select_calling_to" = "";
+
+/*No comment provided by engineer.*/
+"choose_from_contacts" = "";
+
+/*No comment provided by engineer.*/
+"chose_from_callback_numbers" = "";
+
+/*No comment provided by engineer.*/
+"conference_total_calculating_description" = "";
+
+/*No comment provided by engineer.*/
+"contact_edit_description" = "";
+
+/*No comment provided by engineer.*/
+"continue" = "";
+
+/*No comment provided by engineer.*/
+"description" = "";
+
+/*No comment provided by engineer.*/
+"dismiss" = "";
+
+/*No comment provided by engineer.*/
+"Double-tap to dismiss pop-up window." = "";
+
+/*No comment provided by engineer.*/
+"enter_description_and_number" = "";
+
+/*No comment provided by engineer.*/
+"enter_phone_number" = "";
+
+/*No comment provided by engineer.*/
+"error_balance_controlled_by_company" = "";
+
+/*No comment provided by engineer.*/
+"error_cant_connect_to_server" = "";
+
+/*No comment provided by engineer.*/
+"error_code" = "";
+
+/*No comment provided by engineer.*/
+"error_code_55" = "";
+
+/*No comment provided by engineer.*/
+"error_email_address_not_exist" = "";
+
+/*No comment provided by engineer.*/
+"error_empty_country" = "";
+
+/*No comment provided by engineer.*/
+"error_empty_login_email" = "";
+
+/*No comment provided by engineer.*/
+"error_empty_login_password" = "";
+
+/*No comment provided by engineer.*/
+"error_empty_phone_number" = "";
+
+/*No comment provided by engineer.*/
+"error_invalid_password" = "";
+
+/*No comment provided by engineer.*/
+"error_limit_participants_description" = "";
+
+/*No comment provided by engineer.*/
+"error_parsing_response" = "";
+
+/*No comment provided by engineer.*/
+"error_password_too_short" = "";
+
+/*No comment provided by engineer.*/
+"error_unable_to_add_funds" = "";
+
+/*No comment provided by engineer.*/
+"error_unable_to_get_free_calls" = "";
+
+/*No comment provided by engineer.*/
+"error_verify_phone_code" = "";
+
+/*No comment provided by engineer.*/
+"forgot_password" = "";
+
+/*No comment provided by engineer.*/
+"forgot_pasword_label" = "";
+
+/*No comment provided by engineer.*/
+"free_calls" = "";
+
+/*No comment provided by engineer.*/
+"getting_call_history" = "";
+
+/*No comment provided by engineer.*/
+"history_price_usd" = "";
+
+/*No comment provided by engineer.*/
+"invalid_account_information" = "";
+
+/*No comment provided by engineer.*/
+"Last Updated: %@" = "";
+
+/*No comment provided by engineer.*/
+"later" = "";
+
+/*No comment provided by engineer.*/
+"Loading..." = "";
+
+/*No comment provided by engineer.*/
+"logout" = "";
+
+/*No comment provided by engineer.*/
+"microphone_access_denied_description" = "";
+
+/*No comment provided by engineer.*/
+"microphone_access_denied_title" = "";
+
+/*No comment provided by engineer.*/
+"must_be_8_characters_or_more" = "";
+
+/*No comment provided by engineer.*/
+"na" = "";
+
+/*No comment provided by engineer.*/
+"name" = "";
+
+/*No comment provided by engineer.*/
+"Never" = "";
+
+/*No comment provided by engineer.*/
+"no_internet_connection" = "";
+
+/*No comment provided by engineer.*/
+"no_name" = "";
+
+/*No comment provided by engineer.*/
+"no_phone_label" = "";
+
+/*No comment provided by engineer.*/
+"number" = "";
+
+/*No comment provided by engineer.*/
+"please_add_your_own_phone" = "";
+
+/*No comment provided by engineer.*/
+"please_do_not_forget_it" = "";
+
+/*No comment provided by engineer.*/
+"please_enter_first_name" = "";
+
+/*No comment provided by engineer.*/
+"Pull to refresh..." = "";
+
+/*No comment provided by engineer.*/
+"rate_app" = "";
+
+/*No comment provided by engineer.*/
+"rate_app_message" = "";
+
+/*No comment provided by engineer.*/
+"rc_040" = "";
+
+/*No comment provided by engineer.*/
+"record_not_exist" = "";
+
+/*No comment provided by engineer.*/
+"Release to refresh..." = "";
+
+/*No comment provided by engineer.*/
+"request_permission_contacts_description" = "";
+
+/*No comment provided by engineer.*/
+"request_permission_contacts_title" = "";
+
+/*No comment provided by engineer.*/
+"request_permission_microphone_description" = "";
+
+/*No comment provided by engineer.*/
+"request_permission_microphone_title" = "";
+
+/*No comment provided by engineer.*/
+"request_timeout" = "";
+
+/*No comment provided by engineer.*/
+"requesting" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_complete_verification" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_follow_the_docs" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_please_try_again" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_request_a_new_token" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_retrieve_correct_keys" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_retry_again" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_retry_with_a_valid_number" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_retry_with_the_correct_PIN_code" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_unknown_error" = "";
+
+/*No comment provided by engineer.*/
+"ringcaptcha_error_wait_until_token_expires" = "";
+
+/*No comment provided by engineer.*/
+"send" = "";
+
+/*No comment provided by engineer.*/
+"spaxtel_id" = "";
+
+/*No comment provided by engineer.*/
+"terms_of_use" = "";
+
+/*No comment provided by engineer.*/
+"thank_you" = "";
+
+/*No comment provided by engineer.*/
+"today" = "";
+
+/*No comment provided by engineer.*/
+"yesterday" = "";
