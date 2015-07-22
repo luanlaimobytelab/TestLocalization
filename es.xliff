@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Spaxtel-Info.plist" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>SpaxTel</source>
+        <target>SpaxTel</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>${PRODUCT_NAME}</source>
+        <target>${PRODUCT_NAME}</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>3.7</source>
+        <target>3.7</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/AFNetworking.strings" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="%@ Error: %ld">
+        <source>%1$@ Error: %2$ld</source>
+        <target>%1$@ Error: %2$ld</target>
+      </trans-unit>
+      <trans-unit id="Could not decode string: %@">
+        <source>Could not decode string: %@</source>
+        <target>No se pudo decodificar cadena: %@</target>
+      </trans-unit>
+      <trans-unit id="Data failed decoding as a UTF-8 string">
+        <source>Data failed decoding as a UTF-8 string</source>
+        <target>Datos fracasó decodificación como una cadena UTF-8</target>
+      </trans-unit>
+      <trans-unit id="Dismiss">
+        <source>Dismiss</source>
+        <target>Despedir</target>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source>
+        <target>Error</target>
+      </trans-unit>
+      <trans-unit id="Expected URL to be a file URL">
+        <source>Expected URL to be a file URL</source>
+        <target>URL espera que sea una URL del archivo</target>
+      </trans-unit>
+      <trans-unit id="File URL not reachable.">
+        <source>File URL not reachable.</source>
+        <target>URL del archivo no accesible.</target>
+      </trans-unit>
+      <trans-unit id="Not Reachable">
+        <source>Not Reachable</source>
+        <target>No Alcanzable</target>
+      </trans-unit>
+      <trans-unit id="Reachable via WWAN">
+        <source>Reachable via WWAN</source>
+        <target>Accesible a través de WWAN</target>
+      </trans-unit>
+      <trans-unit id="Reachable via WiFi">
+        <source>Reachable via WiFi</source>
+        <target>Accesible a través de WiFi</target>
+      </trans-unit>
+      <trans-unit id="Request failed: %@ (%ld)">
+        <source>Request failed: %1$@ (%2$ld)</source>
+        <target>Solicitud fallida: %1$@ (%2$ld)</target>
+      </trans-unit>
+      <trans-unit id="Request failed: unacceptable content-type: %@">
+        <source>Request failed: unacceptable content-type: %@</source>
+        <target>La petición ha fallado: inaceptable de tipo de contenido: %@</target>
+      </trans-unit>
+      <trans-unit id="Unknown">
+        <source>Unknown</source>
+        <target>Desconocido</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="$%.0f USD international calls!">
+        <source>$%.0f USD international calls!</source>
+        <target>$%.0f USD llamadas internacionales!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="$%.4f USD">
+        <source>$%.4f USD</source>
+        <target>$%.4f USD</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ is already using this number.">
+        <source>%@ is already using this number.</source>
+        <target>%@ Ya está utilizando este número.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d days ago">
+        <source>%d days ago</source>
+        <target>%d hace días</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d hours ago">
+        <source>%d hours ago</source>
+        <target>%d hace horas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d minutes ago">
+        <source>%d minutes ago</source>
+        <target>%d hace minutos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d month ago">
+        <source>%d month ago</source>
+        <target>%d hace un mes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d weeks ago">
+        <source>%d weeks ago</source>
+        <target>%d hace semanas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d years ago">
+        <source>%d years ago</source>
+        <target>%d años atrás</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%dd ago">
+        <source>%dd ago</source>
+        <target>%dd hace</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%dh ago">
+        <source>%dh ago</source>
+        <target>%dh hace</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%dm ago">
+        <source>%dm ago</source>
+        <target>%dm hace</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%dw ago">
+        <source>%dw ago</source>
+        <target>$dw hace</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%dy ago">
+        <source>%dy ago</source>
+        <target>%dy hace</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="(Must be 8 characters or more)">
+        <source>(Must be 8 characters or more)</source>
+        <target>(Debe ser de 8 caracteres o más)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A good combination of cost and quality - perfect for most destinations. Billing is in 1 minute increments.">
+        <source>A good combination of cost and quality - perfect for most destinations. Billing is in 1 minute increments.</source>
+        <target>Una buena combinación de coste y calidad - perfecta para la mayor parte de destinos. Cobro de llamadas en bloques de 1 minuto.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ABOUT SPAXTEL">
+        <source>ABOUT SPAXTEL</source>
+        <target>ACERCA SPAXTEL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ALL DONE!">
+        <source>ALL DONE!</source>
+        <target>TODO LISTO!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account exists but DID not defined">
+        <source>Account exists but DID not defined</source>
+        <target>Dirección de correo electrónico o contraseña incorrecta</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account settings">
+        <source>Account settings</source>
+        <target>Configuración de cuenta</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <target>Añadir</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Callback #">
+        <source>Add Callback #</source>
+        <target>Agregue su #</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Callback Number">
+        <source>Add Callback Number</source>
+        <target>Añadir su número</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Funds">
+        <source>Add Funds</source>
+        <target>Añadir Dinero</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add to Favorites">
+        <source>Add to Favorites</source>
+        <target>Agregar a los favoritos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Advanced">
+        <source>Advanced</source>
+        <target>Avanzado</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allow">
+        <source>Allow</source>
+        <target>Permitir</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allowing SpaxTel\naccess to contacts">
+        <source>Allowing SpaxTel
+access to contacts</source>
+        <target>SpaxTel permitiendo\nel acceso a los contactos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allowing access to microphone">
+        <source>Allowing access to microphone</source>
+        <target>Permitir el acceso a micrófono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to log out?">
+        <source>Are you sure you want to log out?</source>
+        <target>¿Seguro que quieres salir?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ask">
+        <source>Ask</source>
+        <target>Preguntar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ask for each call">
+        <source>Ask for each call</source>
+        <target>Pregunte por cada llamada</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Attendees:">
+        <source>Attendees:</source>
+        <target>Asistentes:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available SpaxTel Balance">
+        <source>Available SpaxTel Balance</source>
+        <target>Saldo disponible SpaxTel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Back">
+        <source>Back</source>
+        <target>Espalda</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Balance: $%.2f USD">
+        <source>Balance: $%.2f USD</source>
+        <target>Balance: $%.2f USD</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Because you are not connected to the internet SpaxTel can initiate a callback to you using an SMS message. This will cost you whatever your local carrier charges you for an SMS to the UK. There is no charge from SpaxTel for the SMS message.">
+        <source>Because you are not connected to the internet SpaxTel can initiate a callback to you using an SMS message. This will cost you whatever your local carrier charges you for an SMS to the UK. There is no charge from SpaxTel for the SMS message.</source>
+        <target>Debido a que usted no está conectado a internet Spaxtel puede iniciar una devolución de llamada para que el uso de un mensaje SMS. Esto le costará cualquiera que sea su portador local le cobra por un SMS al Reino Unido. No hay ningún cargo de Spaxtel para el mensaje SMS.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Business">
+        <source>Business</source>
+        <target>Negocios</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Business Service">
+        <source>Business Service</source>
+        <target>Servicio Empresarial</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy $5 USD Credit">
+        <source>Buy $5 USD Credit</source>
+        <target>Comprar $5 USD de Crédito</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy $15 USD Credit">
+        <source>Buy $15 USD Credit</source>
+        <target>Comprar $15 USD de Crédito</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy $25 USD Credit">
+        <source>Buy $25 USD Credit</source>
+        <target>Comprar $ 25 USD de crédito</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy $50 USD Credit">
+        <source>Buy $50 USD Credit</source>
+        <target>Comprar $ 50 USD de crédito</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy $75 USD Credit">
+        <source>Buy $75 USD Credit</source>
+        <target>Comprar $ 75 USD de crédito</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy $100 USD Credit">
+        <source>Buy $100 USD Credit</source>
+        <target>Comprar $ 100 USD de crédito</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Call Failure">
+        <source>Call Failure</source>
+        <target>El incumplimiento de llamadas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Call Information">
+        <source>Call Information</source>
+        <target>Información Call</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Call me">
+        <source>Call me</source>
+        <target>Llámame</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Callback Numbers">
+        <source>Callback Numbers</source>
+        <target>Mis Números</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Callback number added successfully.">
+        <source>Callback number added successfully.</source>
+        <target>Número añadido correctamente.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Callback number edited successfully.">
+        <source>Callback number edited successfully.</source>
+        <target>Número de devolución de llamada editado con éxito.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calling">
+        <source>Calling</source>
+        <target>Llamando</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calling Method">
+        <source>Calling Method</source>
+        <target>Método de llamada</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calling from \n%@ to \n%@ \nwill cost\n$%@ USD per minute.">
+        <source>Calling from 
+%1$@ to 
+%2$@ 
+will cost
+$%3$@ USD per minute.</source>
+        <target>Llamar desde %1$@ para %2$@ costará $%3$@ USD por minuto.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calling from:">
+        <source>Calling from:</source>
+        <target>Llamar desde:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calling to:">
+        <source>Calling to:</source>
+        <target>Llamando a:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Can't call at this time. Please try again later!">
+        <source>Can't call at this time. Please try again later!</source>
+        <target>No se puede llamar en este momento. Por favor, inténtelo de nuevo más tarde!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Can't connect to the server.\n Please check your internet connection.">
+        <source>Can't connect to the server.
+ Please check your internet connection.</source>
+        <target>No se puede conectar con el servidor. Por favor, compruebe su conexión a Internet.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Can't get limit participants">
+        <source>Can't get limit participants</source>
+        <target>No se puede obtener participantes límite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancelar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Check Rates">
+        <source>Check Rates</source>
+        <target>Recuperar Precios</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose From Callback Numbers">
+        <source>Choose From Callback Numbers</source>
+        <target>Elija entre los números de teléfono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose From Contacts">
+        <source>Choose From Contacts</source>
+        <target>Elija entre tus contactos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Complete verification process successfully or wait until token expires">
+        <source>Complete verification process successfully or wait until token expires</source>
+        <target>Proceso de verificación completa con éxito o esperar hasta que expire símbolo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Conference">
+        <source>Conference</source>
+        <target>Conferencia</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Confirm">
+        <source>Confirm</source>
+        <target>Confirmar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connecting...">
+        <source>Connecting...</source>
+        <target>Conectando...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contacts">
+        <source>Contacts</source>
+        <target>Contactos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Continue">
+        <source>Continue</source>
+        <target>Continuar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Country">
+        <source>Country</source>
+        <target>País</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DID does not exist or cannot get balance">
+        <source>DID does not exist or cannot get balance</source>
+        <target>Cuenta no existe o no puede recuperar el equilibrio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DID does not exist or cannot recharge">
+        <source>DID does not exist or cannot recharge</source>
+        <target>Cuenta no existe o no puede agregar dinero</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Borrar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Description">
+        <source>Description</source>
+        <target>Descripción</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Details">
+        <source>Details</source>
+        <target>Detalles</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dial %@">
+        <source>Dial %@</source>
+        <target>Dial %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dial Number">
+        <source>Dial Number</source>
+        <target>Marcar número</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Didn't receive the code?">
+        <source>Didn't receive the code?</source>
+        <target>¿No has recibido el código?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss">
+        <source>Dismiss</source>
+        <target>Despedir</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>Hecho</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Double-tap to dismiss pop-up window.">
+        <source>Double-tap to dismiss pop-up window.</source>
+        <target>Pulse dos veces para despedir ventana emergente.</target>
+      </trans-unit>
+      <trans-unit id="Duration">
+        <source>Duration</source>
+        <target>Duración</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Economy">
+        <source>Economy</source>
+        <target>Economía</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Economy Service">
+        <source>Economy Service</source>
+        <target>Servicio de Economía</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <target>Editar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email Address">
+        <source>Email Address</source>
+        <target>Dirección de correo electrónico</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email address already in use">
+        <source>Email address already in use</source>
+        <target>Dirección de correo electrónico ya está en uso</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email address is not valid">
+        <source>Email address is not valid</source>
+        <target>Dirección de correo electrónico no es válido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter Description and Number">
+        <source>Enter Description and Number</source>
+        <target>Introduzca la descripción y el número de teléfono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter Name and Number\nfor your contact">
+        <source>Enter Name and Number
+for your contact</source>
+        <target>Ingrese Nombre y Número para su contacto</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter Phone Number">
+        <source>Enter Phone Number</source>
+        <target>Introduzca el número de teléfono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the number of seconds to pause.">
+        <source>Enter the number of seconds to pause.</source>
+        <target>Introduzca el número de segundos para hacer una pausa.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the number to dial.">
+        <source>Enter the number to dial.</source>
+        <target>Introduzca el número que desea marcar.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the phone number of a phone from which you want to make calls. Callback numbers may include your mobile number, your home number, a local SIM card number, etc.">
+        <source>Enter the phone number of a phone from which you want to make calls. Callback numbers may include your mobile number, your home number, a local SIM card number, etc.</source>
+        <target>Introduzca uno de sus números de teléfono. Esto puede ser un teléfono móvil, teléfono fijo, SIM local, número de oficina, etc.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the text to say.">
+        <source>Enter the text to say.</source>
+        <target>Introduzca el texto para decir.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter your account information to login.">
+        <source>Enter your account information to login.</source>
+        <target>Introduzca su información de cuenta para iniciar sesión.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter your email address to receive your password reminder.">
+        <source>Enter your email address to receive your password reminder.</source>
+        <target>Ingrese su correo electrónico para recibir su recordatorio.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source>
+        <target>Error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error %d">
+        <source>Error %d</source>
+        <target>Error %d</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error while parsing server response">
+        <source>Error while parsing server response</source>
+        <target>Error al analizar la respuesta del servidor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorites">
+        <source>Favorites</source>
+        <target>Favoritos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="First Name">
+        <source>First Name</source>
+        <target>Nombre</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Follow the docs on the features and API accordingly">
+        <source>Follow the docs on the features and API accordingly</source>
+        <target>Siga la documentación sobre las características y API en consecuencia</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Force SMS Callback">
+        <source>Force SMS Callback</source>
+        <target>Forzar SMS Callback</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Forgot Password?">
+        <source>Forgot Password?</source>
+        <target>Has olvidado tu contraseña?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Free Calls">
+        <source>Free Calls</source>
+        <target>Llamadas Gratuitas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="From">
+        <source>From</source>
+        <target>Desde</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Getting call history ...">
+        <source>Getting call history ...</source>
+        <target>Conseguir historial de llamadas ...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Getting rates...">
+        <source>Getting rates...</source>
+        <target>Comprobación de tasas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hi, Welcome to SpaxTel!">
+        <source>Hi, Welcome to SpaxTel!</source>
+        <target>Hola, bienvenidos a SpaxTel!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="INVITE FRIENDS">
+        <source>INVITE FRIENDS</source>
+        <target>INVITAR A AMIGOS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you don't mind, please take a moment to rate our service.">
+        <source>If you don't mind, please take a moment to rate our service.</source>
+        <target>Si no te importa, por favor tome un momento para valorar nuestro servicio.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Incorrect phone number">
+        <source>Incorrect phone number</source>
+        <target>Número de teléfono incorrecta</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Internet">
+        <source>Internet</source>
+        <target>Internet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Internet call">
+        <source>Internet call</source>
+        <target>Llamada de Internet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Internet call always">
+        <source>Internet call always</source>
+        <target>Llamada de Internet siempre</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid API login or password">
+        <source>Invalid API login or password</source>
+        <target>Inválido entrada API o contraseña</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid DID or password">
+        <source>Invalid DID or password</source>
+        <target>Dirección de correo electrónico o contraseña no válidos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid account information - please check again under\nOptions | My account.">
+        <source>Invalid account information - please check again under
+Options | My account.</source>
+        <target>Información de la cuenta no válido - ver de nuevo en Opciones | Mi cuenta.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid default number">
+        <source>Invalid default number</source>
+        <target>Número de teléfono predeterminado no válido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid email address or password. Please check again.">
+        <source>Invalid email address or password. Please check again.</source>
+        <target>Dirección de correo electrónico o contraseña no válidos.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid first or last name">
+        <source>Invalid first or last name</source>
+        <target>Inválido nombre o apellido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid method">
+        <source>Invalid method</source>
+        <target>Método válido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid params">
+        <source>Invalid params</source>
+        <target>Parámetros no válidos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid request">
+        <source>Invalid request</source>
+        <target>Solicitud no válida</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keypad">
+        <source>Keypad</source>
+        <target>Teclado</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LOG OUT">
+        <source>LOG OUT</source>
+        <target>CERRAR SESIÓN</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last Updated: %@">
+        <source>Last Updated: %@</source>
+        <target>Última Actualización: %@</target>
+      </trans-unit>
+      <trans-unit id="Later">
+        <source>Later</source>
+        <target>Más tarde</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Let's get started and confirm your phone number:">
+        <source>Let's get started and confirm your phone number:</source>
+        <target>Vamos a empezar y confirme su número de teléfono:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading">
+        <source>Loading</source>
+        <target>Cargando</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <target>Cargando...</target>
+      </trans-unit>
+      <trans-unit id="Login">
+        <source>Login</source>
+        <target>Iniciar Sesión</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <target>Cerrar Sesión</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Method does not exist">
+        <source>Method does not exist</source>
+        <target>Método no existe</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Microphone Access Denied">
+        <source>Microphone Access Denied</source>
+        <target>Micrófono Acceso denegado</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Missing required params">
+        <source>Missing required params</source>
+        <target>Faltan parámetros necesarios</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Moderator:">
+        <source>Moderator:</source>
+        <target>Moderador:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mute">
+        <source>Mute</source>
+        <target>Mudo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NA">
+        <source>NA</source>
+        <target>N/A</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>Nombre</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Never">
+        <source>Never</source>
+        <target>Nunca</target>
+      </trans-unit>
+      <trans-unit id="No DIDs Available">
+        <source>No DIDs Available</source>
+        <target>No hay cuentas disponibles</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No internet connection">
+        <source>No internet connection</source>
+        <target>Sin conexión a Internet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No name">
+        <source>No name</source>
+        <target>Sin nombre</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No phone number label">
+        <source>No phone number label</source>
+        <target>No se etiqueta con el número de teléfono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Available">
+        <source>Not Available</source>
+        <target>No disponible</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Number">
+        <source>Number</source>
+        <target>Número</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <target>Contraseña</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password is too short.">
+        <source>Password is too short.</source>
+        <target>La contraseña es demasiado corta</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password must be 8 characters or less and contain letters and numbers only">
+        <source>Password must be 8 characters or less and contain letters and numbers only</source>
+        <target>La contraseña debe tener 8 caracteres o menos y contener letras y números</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pause">
+        <source>Pause</source>
+        <target>Pausa</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please add at least one callback number. This is the number SpaxTel should call you back at (ie. your mobile phone).">
+        <source>Please add at least one callback number. This is the number SpaxTel should call you back at (ie. your mobile phone).</source>
+        <target>Introduzca uno de sus números de teléfono. Esto puede ser el teléfono móvil, el teléfono fijo, etc.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please add your own phone number where you will make calls from.">
+        <source>Please add your own phone number where you will make calls from.</source>
+        <target>Escriba su propio número de teléfono que va a utilizar para realizar llamadas.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please don't forget it.">
+        <source>Please don't forget it.</source>
+        <target>Por favor no se olvide de ella.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a password">
+        <source>Please enter a password</source>
+        <target>Por favor, ingrese una contraseña</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a password with at least %d characters">
+        <source>Please enter a password with at least %d characters</source>
+        <target>Por favor, introduzca una contraseña con al menos %d caracteres</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a valid code with 4 digits">
+        <source>Please enter a valid code with 4 digits</source>
+        <target>Introduzca un código válido de 4 dígitos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a valid email address">
+        <source>Please enter a valid email address</source>
+        <target>Introduzca una dirección de correo electrónico válida</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a valid password">
+        <source>Please enter a valid password</source>
+        <target>Por favor, introduce una contraseña válida</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a valid phone number">
+        <source>Please enter a valid phone number</source>
+        <target>Introduzca un número de teléfono válido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter country!">
+        <source>Please enter country!</source>
+        <target>Ingrese país!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter description!">
+        <source>Please enter description!</source>
+        <target>Ingrese descripción!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter first name">
+        <source>Please enter first name</source>
+        <target>Introduzca el nombre</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter password.">
+        <source>Please enter password.</source>
+        <target>Introduzca su contraseña.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter phone number!">
+        <source>Please enter phone number!</source>
+        <target>Introduzca el número de teléfono!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter your account information.">
+        <source>Please enter your account information.</source>
+        <target>Introduzca su información de cuenta.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please input the description">
+        <source>Please input the description</source>
+        <target>Entrada de la descripción.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select &quot;Calling From&quot; phone number">
+        <source>Please select "Calling From" phone number</source>
+        <target>Seleccione el número de teléfono de origen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select &quot;Calling To&quot; phone number">
+        <source>Please select "Calling To" phone number</source>
+        <target>Seleccione su número de teléfono de destino</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please try again in 2 minutes.">
+        <source>Please try again in 2 minutes.</source>
+        <target>Por favor, inténtelo de nuevo en 2 minutos.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Premium Economy">
+        <source>Premium Economy</source>
+        <target>Economy Premium</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Premium Economy Service">
+        <source>Premium Economy Service</source>
+        <target>Servicio Economy Premium</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Press #">
+        <source>Press #</source>
+        <target>Prensa #</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Press *">
+        <source>Press *</source>
+        <target>Prensa *</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Price">
+        <source>Price</source>
+        <target>Precio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pull to refresh...">
+        <source>Pull to refresh...</source>
+        <target>Tirar para actualizar...</target>
+      </trans-unit>
+      <trans-unit id="Purchase Credit">
+        <source>Purchase Credit</source>
+        <target>Compra de créditos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RECENT CALLS">
+        <source>RECENT CALLS</source>
+        <target>Últimas llamadas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rate App">
+        <source>Rate App</source>
+        <target>Valorar la aplicación</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recents">
+        <source>Recents</source>
+        <target>Últimas llamadas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Record">
+        <source>Record</source>
+        <target>Grabar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Record does not exist">
+        <source>Record does not exist</source>
+        <target>Registro no existe</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recorded Calls">
+        <source>Recorded Calls</source>
+        <target>Las Llamadas Grabadas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Register">
+        <source>Register</source>
+        <target>Registrarse</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Register Now!">
+        <source>Register Now!</source>
+        <target>Regístrate ahora!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Regular">
+        <source>Regular</source>
+        <target>Regular</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Regular call">
+        <source>Regular call</source>
+        <target>Llamada regular</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Regular call always">
+        <source>Regular call always</source>
+        <target>Siempre llamada regular</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Release to refresh...">
+        <source>Release to refresh...</source>
+        <target>Lanzamiento para refrescar...</target>
+      </trans-unit>
+      <trans-unit id="Request a new token if available">
+        <source>Request a new token if available</source>
+        <target>Solicitar un nuevo token si está disponible</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request timeout">
+        <source>Request timeout</source>
+        <target>Solicitud de tiempo de espera</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Requesting">
+        <source>Requesting</source>
+        <target>Solicitando</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Required">
+        <source>Required</source>
+        <target>necesario</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Required when recognizing a\ncaller and dialing from the\nexisting contacts.">
+        <source>Required when recognizing a
+caller and dialing from the
+existing contacts.</source>
+        <target>Requerido cuando el reconocimiento de un llamadas y la marcación de la contactos existentes.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Retrieve correct keys and domain/application name from site for specified application">
+        <source>Retrieve correct keys and domain/application name from site for specified application</source>
+        <target>Recuperar teclas correctas y nombre de dominio / aplicación desde el sitio de aplicación especificada</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Retry again">
+        <source>Retry again</source>
+        <target>Vuelva a intentar de nuevo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Retry with a valid number">
+        <source>Retry with a valid number</source>
+        <target>Vuelva a intentar con un número válido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Retry with the correct PIN code">
+        <source>Retry with the correct PIN code</source>
+        <target>Vuelva a intentar con el código PIN correcto</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Review Conference">
+        <source>Review Conference</source>
+        <target>Confirmación</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SEND US FEEDBACK">
+        <source>SEND US FEEDBACK</source>
+        <target>ENVIAR COMENTARIOS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SHARE YOUR INVITE CODE">
+        <source>SHARE YOUR INVITE CODE</source>
+        <target>COMPARTIR SU INVITE CÓDIGO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SPAXTEL">
+        <source>SPAXTEL</source>
+        <target>SPAXTEL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <target>Guardar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Say &quot;%@&quot;">
+        <source>Say "%@"</source>
+        <target>Diga "%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Say ...">
+        <source>Say ...</source>
+        <target>Di ...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <target>Búsqueda</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Callback Number">
+        <source>Select Callback Number</source>
+        <target>Seleccione el número de teléfono para usar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Country">
+        <source>Select Country</source>
+        <target>Seleccionar país</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Option">
+        <source>Select Option</source>
+        <target>Seleccionar Opción</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Phone Number">
+        <source>Select Phone Number</source>
+        <target>Seleccione el número de teléfono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select level:">
+        <source>Select level:</source>
+        <target>Seleccione el nivel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send">
+        <source>Send</source>
+        <target>Enviar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send friends free SpaxTel credit and you'll earn bonus credit too, worth $%.0f USD!">
+        <source>Send friends free SpaxTel credit and you'll earn bonus credit too, worth $%.0f USD!</source>
+        <target>Enviar amigos de crédito SpaxTel libre y usted ganará crédito de bonificación también, por valor de $%.0f USD!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send friends free credit and you'll get some too, worth $VALUE USD! Details">
+        <source>Send friends free credit and you'll get some too, worth $VALUE USD! Details</source>
+        <target>Enviar amigos de crédito gratis y obtendrá algunos demasiado, por valor de $VALUE USD! Detalles</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Service Levels">
+        <source>Service Levels</source>
+        <target>Niveles de Servicio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Service level">
+        <source>Service level</source>
+        <target>Nivel De Servicio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>Ajustes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share your promo code with friends and they'll get a free opening balance of $%.0f USD. Once they've signed up, you'll automatically get $%.0f USD bonus credit added to your balance too.">
+        <source>Share your promo code with friends and they'll get a free opening balance of $%1$.0f USD. Once they've signed up, you'll automatically get $%2$.0f USD bonus credit added to your balance too.</source>
+        <target>Comparte tu código promocional con su familia y que obtendrá un saldo de apertura libre de $%.0f USD. Una vez que hayas registrado, recibirás automáticamente $%.0f Crédito USD bono añadido a su saldo también.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign In">
+        <source>Sign In</source>
+        <target>Acceder</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SpaxTel ID: %@">
+        <source>SpaxTel ID: %@</source>
+        <target>SpaxTel ID: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SpaxTel is a brand of Trifecta Consulting Limited.\n\nAddress:\nTrifecta Consulting Limited\nRoom 2305A, 23/F, World-Wide House\n19 Des Voeux Road Central\nCentral, Hong Kong">
+        <source>SpaxTel is a brand of Trifecta Consulting Limited.
+
+Address:
+Trifecta Consulting Limited
+Room 2305A, 23/F, World-Wide House
+19 Des Voeux Road Central
+Central, Hong Kong</source>
+        <target>SpaxTel es una marca de Trifecta Consulting Limited. Dirección: Trifecta Consulting Limited Room 2305A, 23/F, World-Wide House 19 Des Voeux Road Central Central, Hong Kong</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SpaxTel needs access to your\nmicrophone. It is a calling app\nafter all.">
+        <source>SpaxTel needs access to your
+microphone. It is a calling app
+after all.</source>
+        <target>SpaxTel necesita acceder a su micrófono. Se trata de una aplicación llamada después de todo.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SpaxTel requires access to your device's Microphone.\n\nPlease enable Microphone access for SpaxTel in Settings / Privacy / Microphone">
+        <source>SpaxTel requires access to your device's Microphone.
+
+Please enable Microphone access for SpaxTel in Settings / Privacy / Microphone</source>
+        <target>SpaxTel requiere acceso a micrófono del dispositivo. Por favor, activa el acceso micrófono para SpaxTel en Ajustes / Privacidad / Micrófono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Speaker">
+        <source>Speaker</source>
+        <target>Altavoz</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Start">
+        <source>Start</source>
+        <target>comienzo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TERMS &amp; CONDITIONS">
+        <source>TERMS &amp; CONDITIONS</source>
+        <target>TÉRMINOS Y CONDICIONES</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Terms of use">
+        <source>Terms of use</source>
+        <target>Condiciones de uso</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for your payment. We apologize for the inconvenience, but we need to do a manual review which will only take a few hours. Once approved your payment for $%d USD will be added to your account and you will receive an email confirmation. For future payments to SpaxTel, you will not have to wait.">
+        <source>Thank you for your payment. We apologize for the inconvenience, but we need to do a manual review which will only take a few hours. Once approved your payment for $%d USD will be added to your account and you will receive an email confirmation. For future payments to SpaxTel, you will not have to wait.</source>
+        <target>Gracias por tu pago. Pedimos disculpas por las molestias, pero tenemos que hacer una revisión manual de los cuales sólo se llevará un par de horas. Una vez aprobado su pago por $%d USD se añadirá a su cuenta y usted recibirá un email de confirmación. Para los futuros pagos a SpaxTel, usted no tendrá que esperar.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you!">
+        <source>Thank you!</source>
+        <target>Gracias!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The best call quality we offer, from hand selected tier-1 carriers. Caller id is passed properly. Billing is in 30 second increments.">
+        <source>The best call quality we offer, from hand selected tier-1 carriers. Caller id is passed properly. Billing is in 30 second increments.</source>
+        <target>Ofrecemos la mejor calidad de llamada de los mejores proveedores de primera linea. La identificación de la llamada se transifere debidamente. La llamada se realiza en bloques de 30 segundos.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The lowest call rates we can offer. Quality not guaranteed, but we try to make it as good as possible. Billing is in 1 minute increments.">
+        <source>The lowest call rates we can offer. Quality not guaranteed, but we try to make it as good as possible. Billing is in 1 minute increments.</source>
+        <target>Las tarifas mas bajas que podemos ofrecer. Calidad no garantizada - aunque ofrecemos lo mejor que podemos. Cobro de llamadas en bloques de 1 minuto.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The total cost for this conference is being calculated.">
+        <source>The total cost for this conference is being calculated.</source>
+        <target>Se calcula el costo total de esta conferencia.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The total cost for this conference will be $%@ USD per minute. Press the Start button to begin.">
+        <source>The total cost for this conference will be $%@ USD per minute. Press the Start button to begin.</source>
+        <target>El costo total de esta conferencia será de $%@ USD por minuto. Pulse el botón Iniciar para comenzar.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Then dial %@">
+        <source>Then dial %@</source>
+        <target>Luego marque %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Then press #">
+        <source>Then press #</source>
+        <target>A continuación, pulse #</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Then press *">
+        <source>Then press *</source>
+        <target>A continuación, pulse *</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Then say &quot;%@&quot;">
+        <source>Then say "%@"</source>
+        <target>Luego dice "%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Then wait %@ seconds">
+        <source>Then wait %@ seconds</source>
+        <target>Luego espere %@ segundos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This app requires access to your contacts for this function to work properly. Please visit the &quot;Privacy&quot; section in your iPhone's Settings.">
+        <source>This app requires access to your contacts for this function to work properly. Please visit the "Privacy" section in your iPhone's Settings.</source>
+        <target>Esta aplicación requiere acceso a sus contactos para que esta función funcione correctamente. Por favor, visite la sección "Privacidad" en la configuración de su iPhone.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This email address does not exist in our system.">
+        <source>This email address does not exist in our system.</source>
+        <target>Esta dirección de correo electrónico no existe en nuestro sistema.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This number is blocked.">
+        <source>This number is blocked.</source>
+        <target>Este número está bloqueado.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To">
+        <source>To</source>
+        <target>a</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To use this contact with SpaxTel, the number format must be\n +country code + number\n Please modify it and try again.">
+        <source>To use this contact with SpaxTel, the number format must be
+ +country code + number
+ Please modify it and try again.</source>
+        <target>Para utilizar este contacto con SpaxTel, el formato de número debe ser + código del país + número Modifique y vuelva a intentarlo.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Today">
+        <source>Today</source>
+        <target>Hoy</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try it FREE!">
+        <source>Try it FREE!</source>
+        <target>Pruébalo gratis!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to add funds at this time. Please try again later.">
+        <source>Unable to add funds at this time. Please try again later.</source>
+        <target>No es posible agregar fondos en este momento. Por favor, inténtelo de nuevo más tarde.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to create user account">
+        <source>Unable to create user account</source>
+        <target>No se puede crear la cuenta de usuario</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to determine country code or number">
+        <source>Unable to determine country code or number</source>
+        <target>No se puede determinar el código de país o el número de teléfono</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to get balance after recharge">
+        <source>Unable to get balance after recharge</source>
+        <target>No se puede obtener el balance después de añadir dinero</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to get free calls at this time. Please try again later.">
+        <source>Unable to get free calls at this time. Please try again later.</source>
+        <target>No se puede obtener llamadas gratuitas en este momento. Por favor, inténtelo de nuevo más tarde.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown">
+        <source>Unknown</source>
+        <target>desconocido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown error">
+        <source>Unknown error</source>
+        <target>error desconocido</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Update Callback">
+        <source>Update Callback</source>
+        <target>actualizar mi número</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Updating Service Level...">
+        <source>Updating Service Level...</source>
+        <target>Actualización de su nivel de servicio</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use Default Callback">
+        <source>Use Default Callback</source>
+        <target>Usar sistema por defecto</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use an SMS message to initiate a callback to your phone, even if Internet is available.">
+        <source>Use an SMS message to initiate a callback to your phone, even if Internet is available.</source>
+        <target>Utilice un mensaje SMS para iniciar una devolución de llamada a su teléfono, incluso si Internet está disponible.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use my SpaxTel promo code, %@, and get $%.2f USD free international calls. Redeem it at  %@">
+        <source>Use my SpaxTel promo code, %1$@, and get $%2$.2f USD free international calls. Redeem it at  %3$@</source>
+        <target>Utilizar mi código promocional SpaxTel, %1$@, y recibe $%2$.2f USD llamadas internacionales gratuitas. Canjea %3$@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Version">
+        <source>Version</source>
+        <target>Versión</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Wait %@ seconds">
+        <source>Wait %@ seconds</source>
+        <target>Espere %@ segundos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Wait until token expires">
+        <source>Wait until token expires</source>
+        <target>Espere hasta que expire símbolo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We are attempting to call you back at %@ (%@)">
+        <source>We are attempting to call you back at %1$@ (%2$@)</source>
+        <target>Estamos tratando de devolverle la llamada en %1$@ (%2$@)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We like to be friendly!">
+        <source>We like to be friendly!</source>
+        <target>Nos gusta ser amable!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We sent you a text message with a 4 digit code. Enter it below.">
+        <source>We sent you a text message with a 4 digit code. Enter it below.</source>
+        <target>Le hemos enviado un mensaje de texto con un código de 4 dígitos. Ingresa a continuación.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="When on, the default callback number is used. When off, you will be prompted each call to select a callback number.">
+        <source>When on, the default callback number is used. When off, you will be prompted each call to select a callback number.</source>
+        <target>Cuando está activado, se utiliza el número predeterminado. Cuando está desactivado, se le pedirá cada llamada para seleccionar de uno de sus números.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="When your phone rings, answer it.">
+        <source>When your phone rings, answer it.</source>
+        <target>Cuando suene el teléfono, responder a ella.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yesterday">
+        <source>Yesterday</source>
+        <target>Ayer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your account allows conference calls with %@ participants. To increase this limit, please contact us.">
+        <source>Your account allows conference calls with %@ participants. To increase this limit, please contact us.</source>
+        <target>Su cuenta permite llamadas de conferencia con %@ participantes. Para aumentar este límite, por favor póngase en contacto con nosotros.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your balance is %.2f USD.">
+        <source>Your balance is %.2f USD.</source>
+        <target>Su saldo es %.2f USD.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your balance is controlled by %@. Please contact your company administrator.">
+        <source>Your balance is controlled by %@. Please contact your company administrator.</source>
+        <target>Su saldo es controlado por %@. Por favor, póngase en contacto con el administrador de la empresa.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your balance is too low to make calls. To add funds, click the top left icon and then Add Funds.">
+        <source>Your balance is too low to make calls. To add funds, click the top left icon and then Add Funds.</source>
+        <target>Su saldo es demasiado baja para realizar llamadas. Para añadir fondos, haga clic en el icono de arriba a la izquierda y luego Agregar fondos.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your default callback number may not be deleted.">
+        <source>Your default callback number may not be deleted.</source>
+        <target>Su número de teléfono por defecto no se puede eliminar.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your device can't send SMS message.">
+        <source>Your device can't send SMS message.</source>
+        <target>El dispositivo no puede enviar un mensaje SMS.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your password reminder was sent to your email address.">
+        <source>Your password reminder was sent to your email address.</source>
+        <target>Su contraseña fue enviada a su correo electrónico.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="active">
+        <source>active</source>
+        <target>activo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="disabled">
+        <source>disabled</source>
+        <target>discapacitado</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enabled">
+        <source>enabled</source>
+        <target>habilitado</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="just now">
+        <source>just now</source>
+        <target>En este momento</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="now">
+        <source>now</source>
+        <target>ahora</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/RMStore.strings" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="Download canceled">
+        <source>Download canceled</source>
+        <target>Descarga cancelada</target>
+      </trans-unit>
+      <trans-unit id="The app receipt does not contain the given product">
+        <source>The app receipt does not contain the given product</source>
+        <target>El recibo de aplicación no contiene el producto dado</target>
+      </trans-unit>
+      <trans-unit id="The app receipt failed verification">
+        <source>The app receipt failed verification</source>
+        <target>El recibo aplicación falló verificación</target>
+      </trans-unit>
+      <trans-unit id="Unknown product identifier">
+        <source>Unknown product identifier</source>
+        <target>Identificador de producto Desconocido</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
